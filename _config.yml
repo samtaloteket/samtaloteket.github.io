@@ -1,5 +1,81 @@
+lang: sv-SE
 title: Samtaloteket
-description: Livsnära samtal som leder vidare
+description: "Livsnära samtal som leder vidare"
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+github: [metadata]
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+# remote_theme: "sylhare/Type-on-Strap"
+email: info@samtaloteket.se
+baseurl: "/"  # the subpath of your site, e.g. /blog
+url: "https://samtaloteket.se"  # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Johan Swetzén
+  twitter: jswetzen
+  picture: https://api.adorable.io/avatars/285/johndoe.png
+twitter_username: jswetzen
+github_username: jswetzen
+logo: /assets/icons/samtaloteket-logo-light.svg
+search: true
+search_full_content: true
+search_provider: lunr
+# algolia:
+#   application_id: QB6HVGBSBA
+#   index_name: basically-basic
+#   search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+#   powered_by: # true (default), false
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+markdown: kramdown
+# theme: jekyll-theme-basically-basic
+plugins: # previously gems
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+read_time: true
