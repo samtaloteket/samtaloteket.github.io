@@ -1,81 +1,117 @@
-lang: sv-SE
-title: Samtaloteket
-description: "Livsnära samtal som leder vidare"
-show_downloads: false
-google_analytics:
-github: [metadata]
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
-# remote_theme: "sylhare/Type-on-Strap"
-email: info@samtaloteket.se
-baseurl: "/"  # the subpath of your site, e.g. /blog
-url: "https://samtaloteket.se"  # the base hostname & protocol for your site, e.g. http://example.com
-author:
-  name: Johan Swetzén
-  twitter: jswetzen
-  picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: jswetzen
-github_username: jswetzen
-logo: /assets/icons/samtaloteket-logo-light.svg
-search: true
-search_full_content: true
-search_provider: lunr
-# algolia:
-#   application_id: QB6HVGBSBA
-#   index_name: basically-basic
-#   search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
-#   powered_by: # true (default), false
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://samtaloteket.se"
+title: Samtaloteket # site's title
+description: "Livsnära samtal som leder vidare" # used by search engines
 
-# Liquid
-liquid:
-  error_mode: strict
 
-# Build settings
-markdown: kramdown
-# theme: jekyll-theme-basically-basic
-plugins: # previously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-remote-theme
-feed:
-  path: atom.xml
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: Samtaloteket # blog's title
+  avatar: assets/img/samtaloteket-logo-light.svg
+  favicon: assets/favicon.ico
+  gravatar: # Email MD5 hash
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
+  # Header and footer text
+  header_text: > #two or three lines to describe your site
+     <h2 class="title">Livsnära samtal som leder vidare</h2>
+  header_text_feature_image: assets/img/elijah-hiett-637179-unsplash-crop-blur.jpg
+  footer_text: >
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  # Icons
+  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  gitlab:
+  github: "sylhare"
+  google_plus:
+  instagram:
+  keybase:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: # "twitter username"
+  vimeo:
+  wordpress:
+  youtube:
+  
+  # Sharing options
+  share_buttons:
+    facebook: true
+    twitter: true
+    google_plus: true
+    tumblr:
+    pinterest:
+    pocket:
+    reddit: true
+    linkedin:
+    wordpress:
+    email: true
 
-# Collections
+  # Scripts / Features 
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+  
+  special_page:
+    search: 
+      icon: "search" # Assuming page link and icon are the same
+      enabled: true
+    tags:
+      icon: "tags"
+      enabled: true
+  
+  # Localization strings
+  str_follow_on: "Följ på"
+  str_rss_follow: "Följ RSS-flödet"
+  str_share_on: "Dela på"
+  str_add_to: "Lägg till på"
+  str_email: "Email"
+  str_tweet: "Twittra"
+  str_pin_it: "Pin it"
+  str_next_post: "Nästa inlägg"
+  str_previous_post: "Föregående inlägg"
+  str_next_page: "Nästa"
+  str_previous_page: "Föregående"
+  str_continue_reading: "Fortsätt läsa"
+  str_javascript_required_disqus: "Aktivera JavaScript för att kunna se kommentarerna"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: true
+  
+  
+# PAGINATION
+paginate: 5
+paginate_path: "blogg/page:num"
+
+
+# PORTFOLIO
 collections:
-  recipes:
+  portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name
 
-# Front Matter Defaults
-defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
-  # _recipes
-  - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: post
-read_time: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-seo-tag]
+#theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
+exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*", "vendor"]
