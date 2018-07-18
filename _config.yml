@@ -3,6 +3,7 @@ baseurl: ""
 url: "https://samtaloteket.se"
 title: Samtaloteket # site's title
 description: "Livsnära samtal som leder vidare" # used by search engines
+lang: "sv_SE"
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -16,9 +17,9 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <h2 class="title">Livsnära samtal som leder vidare</h2>
-  header_text_feature_image: assets/img/elijah-hiett-637179-unsplash-crop-blur.jpg
-  footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  header_text_feature_image: assets/img/headers/elijah-hiett-637179-unsplash-crop-blur.jpg
+#  footer_text: >
+#   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -26,10 +27,10 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "samtaloteket"
   flickr:
   gitlab:
-  github: "sylhare"
+  github:
   google_plus:
   instagram:
   keybase:
@@ -44,7 +45,7 @@ theme_settings:
   vimeo:
   wordpress:
   youtube:
-  
+
   # Sharing options
   share_buttons:
     facebook: true
@@ -97,6 +98,14 @@ theme_settings:
 # PAGINATION
 paginate: 5
 paginate_path: "blogg/page:num"
+
+# POST DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "assets/img/default-share-image.jpg"
 
 
 # PORTFOLIO

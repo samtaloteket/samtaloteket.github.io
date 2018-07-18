@@ -2,7 +2,7 @@
 layout: page
 title: Om Samtaloteket
 permalink: /om/
-feature-img: "assets/img/thong-vo-2482-unsplash-crop.jpg"
+feature-img: "assets/img/headers/thong-vo-2482-unsplash-crop.jpg"
 tags: [Om, Arrangörer]
 ---
 
@@ -13,7 +13,8 @@ för att se en annan människas perspektiv på stora frågor -- och dela med sig
 * Kyrkor för Unga vuxna (KUNG) - ett Nätverk i Göteborg
 * Saronkyrkan
 * Betlehemskyrkan
+* Studentprästerna i Göteborg
 * Smyrnakyrkan
 * Equmeniakyrkan Kungsport
-* Räddningsmissionen
-* Tidningen Dagen
+* Göteborgs Räddningsmission
+* kanske Tidningen Dagen (?)
