@@ -17,4 +17,22 @@
             }
         }
     }
+
+    .organizer-logo {
+        padding: 5px;
+    }
+
+    .footer-organizers {
+        ul {
+            list-style: none;
+            display: flex;
+            align-items: center;
+            li {
+                display: inline;
+            }
+            a:hover {
+                color: darken($link-color, 15%);
+            }
+        }
+    }
 }
