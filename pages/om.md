@@ -17,4 +17,4 @@ för att se en annan människas perspektiv på stora frågor -- och dela med sig
 * Smyrnakyrkan
 * Equmeniakyrkan Kungsport
 * Göteborgs Räddningsmission
-* kanske Tidningen Dagen (?)
+* Studieförbundet Bilda
