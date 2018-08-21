@@ -109,10 +109,10 @@ defaults:
 
 
 # PORTFOLIO
-collections:
-  portfolio:
-    output: false
-    permalink: /:collection/:name
+#collections:
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:name
 
 
 # BUILD SETTINGS
