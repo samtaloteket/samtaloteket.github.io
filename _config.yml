@@ -15,9 +15,9 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: > #two or three lines to describe your site
-     <h2 class="title">Livsnära samtal som leder vidare</h2>
-  header_text_feature_image: assets/img/headers/elijah-hiett-637179-unsplash-crop-blur.jpg
+  header_text: #> #two or three lines to describe your site
+#     <h2 class="title">Livsnära samtal som leder vidare</h2>
+  header_text_feature_image: assets/img/headers/topp_samtaloteket.jpg
 #  footer_text: >
 #   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 

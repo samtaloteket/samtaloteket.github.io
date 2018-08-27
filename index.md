@@ -1,9 +1,10 @@
 ---
-layout: page
-title: Samtaloteket
-subtitle: Livsnära samtal som leder vidare
+layout: start
+title: #Samtaloteket
+subtitle: #Livsnära samtal som leder vidare
 hide: true
-feature-img: assets/img/headers/elijah-hiett-637179-unsplash-crop-blur-more.jpg
+feature-img: assets/img/headers/topp_samtaloteket.jpg
+feature-img-height: 40%
 ---
 
 Man kan glida oreflekterat igenom livet, eller så kan man ta sig an viktiga

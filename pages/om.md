@@ -18,3 +18,4 @@ för att se en annan människas perspektiv på stora frågor -- och dela med sig
 * Equmeniakyrkan Kungsport
 * Göteborgs Räddningsmission
 * Studieförbundet Bilda
+* Navigatörerna
