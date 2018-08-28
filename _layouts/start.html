@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="feature-image">
-  <header style="background-size: cover; background-image: url('{{ site.baseurl }}/{{ page.feature-img }}'); padding-top: {{ page.feature-img-height }}">
+  <header id="startheader" style="padding-top: {{ page.feature-img-height }};">
     <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
         {{ page.title }}
     </h1>

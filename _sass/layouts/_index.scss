@@ -1,3 +1,25 @@
+// Start image
+#startheader {
+  padding: 0;
+  background-size: cover;
+  background-image: url('/assets/img/headers/topp_samtaloteket.jpg');
+}
+@media only screen and (max-width: 3000px) {
+  #startheader {
+    background-image: url('/assets/img/headers/topp_samtaloteket@3000.jpg');
+  }
+}
+@media only screen and (max-width: 1500px) {
+  #startheader {
+    background-image: url('/assets/img/headers/topp_samtaloteket@1500.jpg');
+  }
+}
+@media only screen and (max-width: 750px) {
+  #startheader {
+    background-image: url('/assets/img/headers/topp_samtaloteket@750.jpg');
+  }
+}
+
 // Header text feature
 .call-out {
     @extend %padding-medium;
