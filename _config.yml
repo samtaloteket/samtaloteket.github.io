@@ -11,7 +11,7 @@ theme_settings:
   # Meta
   title: Samtaloteket # blog's title
   avatar: assets/img/samtaloteket_logo_svart.svg
-  favicon: assets/favicon.ico
+  favicon: assets/favicon/samtaloteket.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
