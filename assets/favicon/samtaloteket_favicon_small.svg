@@ -15,10 +15,10 @@
    width="200"
    height="200"
    xml:space="preserve"
-   sodipodi:docname="samtaloteket_favicon_small.svg"
-   inkscape:export-filename="/Users/johan/Documents/Programmering/git/samtaloteket.github.io/assets/samtaloteket_favicon-120x120.png"
-   inkscape:export-xdpi="54"
-   inkscape:export-ydpi="54"><metadata
+   sodipodi:docname="samtaloteket_favicon_small2.svg"
+   inkscape:export-filename="/Users/johan/Documents/Programmering/git/samtaloteket.github.io/assets/favicon/samtaloteket_favicon-16x16.png"
+   inkscape:export-xdpi="7.1999998"
+   inkscape:export-ydpi="7.1999998"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -36,7 +36,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.95"
-     inkscape:cx="44.736842"
+     inkscape:cx="-141.57895"
      inkscape:cy="68.175003"
      inkscape:window-x="4"
      inkscape:window-y="1"
@@ -48,5 +48,5 @@
      transform="matrix(1.25,0,0,-1.25,0,199.99997)"><path
        inkscape:connector-curvature="0"
        id="path20"
-       style="fill:#000000;fill-opacity:1;stroke:#231f20;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 53.94722,55.647651 c 2.25168,-2.424716 3.173388,-5.278603 4.052395,-8.413076 1.200453,-4.26983 3.591523,-8.164119 4.706714,-12.408229 0.665853,-2.52901 0.929881,-6.082006 2.642008,-7.988962 2.156584,2.128034 3.068386,7.848087 4.049105,10.59308 1.818722,5.076878 4.354136,9.623399 6.377875,14.567077 0.418205,1.019741 0.488714,1.515035 1.0594,2.274817 -0.0015,0.378513 0.129484,0.701444 0.395068,0.968585 0.1263,0.416366 0.460872,0.524623 1.003679,0.324771 5.895705,0.452947 11.781575,1.00513 17.659237,1.654745 5.359479,0.381129 10.648409,1.214038 15.861849,2.497169 10.27117,2.35877 21.85597,5.031947 30.82824,10.861565 3.45712,2.288262 6.53697,4.997488 9.23639,8.126901 1.81872,3.311931 2.5288,6.880848 2.13359,10.705264 0.58873,12.155022 -2.13033,22.844362 -11.90791,31.126612 -13.22635,11.20102 -31.06106,11.86521 -47.421489,12.17187 -17.242734,0.32477 -35.326721,1.54652 -52.290635,-2.16968 -7.171619,-1.07747 -13.703615,-3.67515 -19.596051,-7.79314 C 16.527735,115.90403 12.232638,107.96934 9.8497537,98.942429 6.9338757,89.957811 2.6453388,77.198135 10.062978,69.15126 c 5.206924,-5.650853 13.046006,-8.432429 20.224181,-10.579814 4.319723,-1.291977 8.949349,-2.671336 13.470752,-2.929491 3.775243,-0.214038 7.607868,0.0071 11.394538,0.0071" /></g></svg>
