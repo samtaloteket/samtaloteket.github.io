@@ -8,7 +8,7 @@ feature-img-height: 40%
 published: true
 ---
 
-En kan glida oreflekterat igenom livet, eller så kan en ta sig an viktiga
+En kan glida oreflekterat igenom livet, eller ta sig an viktiga
 frågor för att bilda sig en egen uppfattning. Samtaloteket är en plats för det
 senare i en trevlig miljö och med ledning av kunniga talare med olika bakgrund och infallsvinklar. Oavsett livsåskådning är du välkommen att utbyta tankar och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge dig in i samtalet så letar vi svar
 tillsammans.
