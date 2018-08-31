@@ -30,7 +30,7 @@ Joel är docent i kyrkohistoria och skribent i Dagen och Expressen.
 Vi får insikt i Sveriges sekulariseringsprocess och samtalar kring var
 vi söker vägledning sedan Gud och kyrkan mist sin dominans.
 
-## Existensiell vilsenhet
+## Existentiell vilsenhet
 #### Mån 15 oktober, talare Cecilia Melder
 Cecilia är präst i Svenska kyrkan och religionspsykolog.
 Med avstamp i bl.a. FNs definition av existensiell hälsa samtalar vi om hur
