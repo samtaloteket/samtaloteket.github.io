@@ -38,7 +38,7 @@ alla i någon mening är andliga och i behov av mening.
 
 ## Gemenskaper som vägleder på gott och ont
 #### Tis 6 november, talare Christer Mattsson
-Christer är forskare om våldsbejakande extremism och föreståndare för
+Christer forskar om våldsbejakande extremism och föreståndare för
 Segerstedtsinstitutet.
 Hur påverkas vi av människorna som vi medvetet eller omedvetet omger oss med?
 
