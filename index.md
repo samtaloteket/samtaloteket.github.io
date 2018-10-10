@@ -33,8 +33,9 @@ vi söker vägledning sedan Gud och kyrkan mist sin dominans.
 ## Existentiell vilsenhet
 #### Mån 15 oktober, talare Cecilia Melder
 Cecilia är präst i Svenska kyrkan och religionspsykolog.
-Hon talar med utgångspunkt i hennes forskning och WHOs arbete med den
-existentiella dimensionen av hälsorelaterad livskvalitet.
+Med utgångspunkt i hennes forskning och WHOs arbete med den existentiella
+dimensionen av hälsorelaterad livskvalitet samtalar vi om hur alla i någon
+mening är andliga och i behov av mening.
 
 ## Gemenskaper som vägleder på gott och ont
 #### Tis 6 november, talare Christer Mattsson
