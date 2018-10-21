@@ -25,12 +25,14 @@ kring frågorna som väcks, som vi bollar både i mindre grupper och allihop
 med hjälp av talare och samtalsledare. 
 
 ## Gud dog. Nu då?
+![Joel Halldorf](assets/img/speakers/joel_halldorf.jpg){:class="portrait-image"}
 #### Ons 26 september, talare Joel Halldorf
 Joel är docent i kyrkohistoria och skribent i Dagen och Expressen.
 Vi får insikt i Sveriges sekulariseringsprocess och samtalar kring var
 vi söker vägledning sedan Gud och kyrkan mist sin dominans.
 
 ## Existentiell vilsenhet
+![Cecilia Melder](assets/img/speakers/cecilia_melder.jpg){:class="portrait-image"}
 #### Mån 15 oktober, talare Cecilia Melder
 Cecilia är präst i Svenska kyrkan och religionspsykolog.
 Med utgångspunkt i hennes forskning och WHOs arbete med den existentiella
@@ -38,6 +40,7 @@ dimensionen av hälsorelaterad livskvalitet samtalar vi om hur alla i någon
 mening är andliga och i behov av mening.
 
 ## Gemenskaper som vägleder på gott och ont
+![Christer Mattsson](assets/img/speakers/christer_mattsson.jpg){:class="portrait-image"}
 #### Tis 6 november, talare Christer Mattsson
 Christer forskar om våldsbejakande extremism och föreståndare för
 Segerstedtsinstitutet.
