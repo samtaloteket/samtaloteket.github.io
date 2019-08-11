@@ -8,6 +8,35 @@ published: true
 
 Här hittar du teman och kan lyssna på tidigare terminer av Samtaloteket.
 
+### Våren 2019: Tvärsäkerhet och tvivel
+
+#### David Thurfjell: "En liten kväll om det existentiella smörgåsbordet"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-07-david-thurfjell.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+David Thurfjell är professor i religionsvetenskap vid Södertörns högskola. Han
+talar om hur svårt svenskar har för att säga att något man tror på är ”sant”.
+Samtidigt finns det en längtan efter tvärsäkerhet. Vi attraheras ofta av
+personer som ger enkla svar och gör livet begripligt.
+
+#### Emma Frans: "En liten kväll om fake news och alternativa fakta"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-09-emma-frans.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+Emma Frans är forskare vid Karolinska Institutet och vetenskapsjournalist på
+Svenska Dagbladet. Hon tänker tillsammans med oss kring människans benägenhet
+att ta till sig spännande -- men ofta felaktiga -- rön i jakten på
+meningsfullhet.
+
+#### Eric Schüldt: "En liten kväll om att hitta hem"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-11-eric-schuldt.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+Eric Schüldt är kulturjournalist och känd för många från podden Människan och
+Maskinen. Kan sanningen vara att fångas av en skönhet där jag intuitivt är
+”hemma”?
+
+
 ### Hösten 2018: Vägledning -- Vem följer du?
 Detta tema dyker rätt ned ibland livspusslets spridda bitar och frågar
 vilka röster vi lyssnar till. Vem och vad bestämmer pusslets motiv? Hur medvetet
