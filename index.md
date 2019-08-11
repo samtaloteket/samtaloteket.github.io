@@ -16,34 +16,32 @@ och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge di
 in i samtalet så letar vi svar tillsammans.
 
 
-## Tvärsäkerhet och tvivel
+## Klimathoppet
 Under tre kvällar med någon månads mellanrum lyssnar vi till korta
-föreläsningar som angriper olika aspekter av tvärsäkerhet och tvivel. I centrum
+föreläsningar som angriper olika aspekter av klimatfrågan. I centrum
 ligger samtalet kring frågorna som väcks, som vi bollar både i mindre grupper
 och allihop med hjälp av talare och samtalsledare.
 
-## En liten kväll om det existentiella smörgåsbordet
-![David Thurfjell](assets/img/speakers/david_thurfjell.jpg 'David Thurfjell'){:class="portrait-image"}
-#### Mån 4 februari, talare David Thurfjell
-David Thurfjell är professor i religionsvetenskap vid Södertörns högskola. Han
-talar om hur svårt svenskar har för att säga att något man tror på är ”sant”.
-Samtidigt finns det en längtan efter tvärsäkerhet. Vi attraheras ofta av
-personer som ger enkla svar och gör livet begripligt.
+## Bättre och bättre dag för dag
+![Andreas Nordlander](assets/img/speakers/andreas_nordlander.jpg 'Andreas Nordlander'){:class="portrait-image"}
+#### Ons 18 sept, talare Andreas Nordlander
+Andreas Nordlander är teolog och filosof vid Göteborgs Universitet.
+<br />
+<br />
 
-## En liten kväll om fake news och alternativa fakta
-![Emma Frans](assets/img/speakers/emma_frans.jpg 'Emma Frans, foto av Bengt Oberger, CC-BY-SA'){:class="portrait-image"}
-#### Ons 13 mars, talare Emma Frans
-Emma Frans är forskare vid Karolinska Institutet och vetenskapsjournalist på
-Svenska Dagbladet. Hon tänker tillsammans med oss kring människans benägenhet
-att ta till sig spännande -- men ofta felaktiga -- rön i jakten på
-meningsfullhet.
+## Ont, det gör ont
+![Kali Andersson](assets/img/speakers/karin_kali_andersson.jpg 'Kali Andersson'){:class="portrait-image"}
+#### Mån 7 okt, talare Kali Andersson
+Kali Andersson är psykolog hos Klimatpsykologerna.
+<br />
+<br />
 
-## En liten kväll om att hitta hem
-![Eric Schüldt](assets/img/speakers/eric_schuldt.jpg 'Eric Schüldt, foto av Cecilia Sandblom'){:class="portrait-image"}
-#### Ons 10 april, talare Eric Schüldt
-Eric Schüldt är kulturjournalist och känd för många från podden Människan och
-Maskinen. Kan sanningen vara att fångas av en skönhet där jag intuitivt är
-”hemma”?
+## We shall overcome
+![Sverker Sörlin](assets/img/speakers/sverker_sorlin.jpg 'Sverker Sörlin, foto av Frankie Fouganthin, CC BY-SA 4.0'){:class="portrait-image"}
+#### Ons 6 nov, talare Sverker Sörlin
+Sverker Sörlin är professor och idéhistoriker vid KTH.
+<br />
+<br />
 
 ## Välkommen!
 Samtalet hittar du alltid 18.00 - 20.00 på Condeco Västra Hamngatan 16
@@ -52,5 +50,4 @@ Samtalet hittar du alltid 18.00 - 20.00 på Condeco Västra Hamngatan 16
 
 ---
 
-<small><a href="https://commons.wikimedia.org/wiki/File:Emma_Frans.jpg">Foto på Emma Frans</a> av <a href="https://commons.wikimedia.org/wiki/User:Boberger">Bengt Oberger</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv">CC-BY-SA</a></small><br />
-<small>Foto på Eric Schüldt av Cecilia Sandblom</small>
+<small><a href="https://commons.wikimedia.org/wiki/File:Sverker_S%C3%B6rlin_dec_2014.jpg">Foto på Sverker Sörlin</a> av <a href="https://commons.wikimedia.org/wiki/User:FrankieF">Frankie Fouganthin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv">CC-BY-SA</a></small><br />
