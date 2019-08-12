@@ -30,7 +30,7 @@ Andreas Nordlander är teolog och filosof vid Göteborgs Universitet.
 <br />
 
 ## Ont, det gör ont
-![Kali Andersson](assets/img/speakers/karin_kali_andersson.jpg 'Kali Andersson'){:class="portrait-image"}
+![Kali Andersson](assets/img/speakers/kali_andersson.jpg 'Kali Andersson'){:class="portrait-image"}
 #### Mån 7 okt, talare Kali Andersson
 Kali Andersson är psykolog hos Klimatpsykologerna.
 <br />
