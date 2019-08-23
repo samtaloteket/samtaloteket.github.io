@@ -15,17 +15,11 @@ och infallsvinklar. Oavsett livsåskådning är du välkommen att utbyta tankar
 och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge dig
 in i samtalet så letar vi svar tillsammans.
 
-
 ## Klimathopp
 Låter det hånfullt..? Eller kanske befriande? I höstens Samtalotek ska vi tala
 om klimatkrisen, berättelserna som omger den och känslorna den föder.
 Finns det fortfarande hopp? Och finns det anledning att fortsätta kämpa för
 ett hållbart samhälle även om det är för sent?
-
-Under tre kvällar med någon månads mellanrum lyssnar vi till korta
-föreläsningar som angriper olika aspekter av klimatfrågan. I centrum
-ligger samtalet kring frågorna som väcks, som vi bollar både i mindre grupper
-och allihop med hjälp av talare och samtalsledare.
 
 ## En liten kväll om de stora berättelserna
 ![Andreas Nordlander](assets/img/speakers/andreas_nordlander.jpg 'Andreas Nordlander'){:class="portrait-image"}
