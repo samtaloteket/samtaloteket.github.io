@@ -16,32 +16,36 @@ och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge di
 in i samtalet så letar vi svar tillsammans.
 
 
-## Klimathoppet
+## Klimathopp
+Låter det hånfullt..? Eller kanske befriande? I höstens Samtalotek ska vi tala
+om klimatkrisen, berättelserna som omger den och känslorna den föder.
+Finns det fortfarande hopp? Och finns det anledning att fortsätta kämpa för
+ett hållbart samhälle även om det är för sent?
+
 Under tre kvällar med någon månads mellanrum lyssnar vi till korta
 föreläsningar som angriper olika aspekter av klimatfrågan. I centrum
 ligger samtalet kring frågorna som väcks, som vi bollar både i mindre grupper
 och allihop med hjälp av talare och samtalsledare.
 
-## Bättre och bättre dag för dag
+## En liten kväll om de stora berättelserna
 ![Andreas Nordlander](assets/img/speakers/andreas_nordlander.jpg 'Andreas Nordlander'){:class="portrait-image"}
 #### Ons 18 sept, talare Andreas Nordlander
-Andreas Nordlander är teolog och filosof vid Göteborgs Universitet.
-<br />
-<br />
+Våra känslor och inställningar till klimatkrisen formas av de berättelser och
+begrepp vi omges av. Teologen Andreas Nordlander hjälper oss förstå mer av
+dessa berättelser och sätta dem i ett sammanhang. 
 
-## Ont, det gör ont
+## En liten kväll om klimatångest
 ![Kali Andersson](assets/img/speakers/karin_kali_andersson.JPG 'Kali Andersson'){:class="portrait-image"}
 #### Mån 7 okt, talare Kali Andersson
-Kali Andersson är psykolog hos Klimatpsykologerna.
-<br />
-<br />
+Hur hanterar vi våra egna känslor inför klimatförändringarna och vad är det
+egentligen som styr våra beteenden? Kali Andersson från Klimatpsykologerna ger
+inspiration för samtal.
 
-## We shall overcome
+## En liten kväll om samhällsförändring
 ![Sverker Sörlin](assets/img/speakers/sverker_sorlin.jpg 'Sverker Sörlin, foto av Frankie Fouganthin, CC BY-SA 4.0'){:class="portrait-image"}
 #### Ons 6 nov, talare Sverker Sörlin
-Sverker Sörlin är professor och idéhistoriker vid KTH.
-<br />
-<br />
+Hur har vårt samhälle tidigare tacklat kriser som krävt genomgripande förändring?
+Professor Sverker Sörlin ger oss idéer för hur samhällsförändring kan gå till.
 
 ## Välkommen!
 Samtalet hittar du alltid 18.00 - 20.00 på Condeco Västra Hamngatan 16
