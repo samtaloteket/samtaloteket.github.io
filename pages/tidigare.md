@@ -8,6 +8,32 @@ published: true
 
 Här hittar du teman och kan lyssna på tidigare terminer av Samtaloteket.
 
+### Hösten 2019: Klimathopp
+
+#### Andreas Nordlander: "En liten kväll om de stora berättelserna"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-13-andreas-nordlander.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+Våra känslor och inställningar till klimatkrisen formas av de berättelser och
+begrepp vi omges av. Teologen Andreas Nordlander hjälper oss förstå mer av
+dessa berättelser och sätta dem i ett sammanhang. 
+
+#### Kali Andersson: "En liten kväll om klimatångest"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-14-kali-andersson.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+Hur hanterar vi våra egna känslor inför klimatförändringarna och vad är det
+egentligen som styr våra beteenden? Kali Andersson från Klimatpsykologerna ger
+inspiration för samtal.
+
+#### Sverker Sörlin: "En liten kväll om samhällsförändring"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-15-sverker-sorlin.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+Hur har vårt samhälle tidigare tacklat kriser som krävt genomgripande förändring?
+Professor Sverker Sörlin ger oss idéer för hur samhällsförändring kan gå till.
+
+
 ### Våren 2019: Tvärsäkerhet och tvivel
 
 #### David Thurfjell: "En liten kväll om det existentiella smörgåsbordet"

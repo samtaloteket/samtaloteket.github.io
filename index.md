@@ -3,7 +3,7 @@ layout: start
 title: null
 subtitle: null
 hide: true
-feature-img: assets/img/headers/topp_samtaloteket.jpg
+feature-img: assets/img/headers/topp\_samtaloteket.jpg
 feature-img-height: 40%
 published: true
 ---
@@ -15,37 +15,42 @@ och infallsvinklar. Oavsett livsåskådning är du välkommen att utbyta tankar
 och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge dig
 in i samtalet så letar vi svar tillsammans.
 
-## Klimathopp
-Låter det hånfullt..? Eller kanske befriande? I höstens Samtalotek ska vi tala
-om klimatkrisen, berättelserna som omger den och känslorna den föder.
-Finns det fortfarande hopp? Och finns det anledning att fortsätta kämpa för
-ett hållbart samhälle även om det är för sent?
+## När livskrisen kommer
+Det kan känns som att den ständigt lurar runt hörnet. Eller så dyker den bara
+upp helt oväntat: livskrisen.
+Studierna kanske misslyckas, eller jobbet. Tänk om relationen brister, eller jag
+aldrig hittar någon partner. Föräldrar blir äldre och vänner kommer och går.
+Vad gör man egentilgen när det oväntade oundvikliga händer och finns det något
+sätt att förbereda sig? I vårens Samtalotek utforskar vi tillsammans hur vi kan
+bli existentiella och emotionella preppers!
 
-## En liten kväll om de stora berättelserna
-![Andreas Nordlander](assets/img/speakers/andreas_nordlander.jpg 'Andreas Nordlander'){:class="portrait-image"}
-#### Ons 18 sept, talare Andreas Nordlander
-Våra känslor och inställningar till klimatkrisen formas av de berättelser och
-begrepp vi omges av. Teologen Andreas Nordlander hjälper oss förstå mer av
-dessa berättelser och sätta dem i ett sammanhang. 
+## Så preppar du för existentiell kris och tvivel
+![Torgny Wirén](assets/img/speakers/torgny_wiren.jpg 'Torgny Wirén'){:class="portrait-image"}
+#### Ons 26 feb, talare Torgny Wirén
+Som skolpräst och författare till både andaktsböcker och existentiella romaner
+har Torgny arbetat med och väglett många människor under årens lopp. Vi ser
+fram emot en kväll som rustar oss att bättre hantera de svåra händelser som vi
+alla möter någon gång. Vad har vi för verktyg och vart kan vi vända oss när
+livet ställs på ända?
 
-## En liten kväll om klimatångest
-![Kali Andersson](assets/img/speakers/karin_kali_andersson.JPG 'Kali Andersson'){:class="portrait-image"}
-#### Mån 7 okt, talare Kali Andersson
-Hur hanterar vi våra egna känslor inför klimatförändringarna och vad är det
-egentligen som styr våra beteenden? Kali Andersson från Klimatpsykologerna ger
-inspiration för samtal.
+## Så preppar du för lidande
+![Lottie Eriksson](assets/img/speakers/lottie_eriksson.jpg 'Lottie Eriksson'){:class="portrait-image"}
+#### Tis 10 mars, talare Lottie Eriksson
+Skador, förluster, sorg; lidande kan drabba oss i många olika former.
+Från ett personligt perspektiv leds vi i samtal kring detta svåra ämne.
+Som doktorand i systematisk teologi kommer Lottie Eriksson även dyka ned i olika
+teologiska och filosifiska synsätt kring lidande.
 
-## En liten kväll om samhällsförändring
-![Sverker Sörlin](assets/img/speakers/sverker_sorlin.jpg 'Sverker Sörlin, foto av Frankie Fouganthin, CC BY-SA 4.0'){:class="portrait-image"}
-#### Ons 6 nov, talare Sverker Sörlin
-Hur har vårt samhälle tidigare tacklat kriser som krävt genomgripande förändring?
-Professor Sverker Sörlin ger oss idéer för hur samhällsförändring kan gå till.
+## Så preppar du för relationskris
+![Hanna Möllås](assets/img/speakers/hanna_mollas.jpg 'Hanna Möllås'){:class="portrait-image"}
+#### Ons 1 apr, talare Hanna Möllås
+Hanna Möllås är bland annat sexolog, barnmorska, författare och familjeterapeut.
+Med djup erfarenhet och stor humor kommer hon tala om kriser relaterat till
+vänskapsrelationer, parrelationer och singelskap.
 
 ## Välkommen!
 Samtalet hittar du alltid 18.00 - 20.00 på Condeco Västra Hamngatan 16
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2131.74625292261!2d11.962074615899875!3d57.70378074731207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36600d77e59%3A0x22e24f69307e2985!2sCondeco+V%C3%A4stra+Hamngatan!5e0!3m2!1ssv!2sse!4v1532376020924" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
----
-
-<small><a href="https://commons.wikimedia.org/wiki/File:Sverker_S%C3%B6rlin_dec_2014.jpg">Foto på Sverker Sörlin</a> av <a href="https://commons.wikimedia.org/wiki/User:FrankieF">Frankie Fouganthin</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv">CC-BY-SA</a></small><br />
+<div style="text-align: center">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2131.74625292261!2d11.962074615899875!3d57.70378074731207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36600d77e59%3A0x22e24f69307e2985!2sCondeco+V%C3%A4stra+Hamngatan!5e0!3m2!1ssv!2sse!4v1532376020924" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>

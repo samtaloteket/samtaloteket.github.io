@@ -22,8 +22,8 @@ theme_settings:
 #   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
+  email_address: "info@samtaloteket.se"
   behance:
   bitbucket:
   dribbble:
@@ -32,7 +32,7 @@ theme_settings:
   gitlab:
   github:
   google_plus:
-  instagram:
+  instagram: "samtaloteket"
   keybase:
   linkedin:  # Full URL
   pinterest:
