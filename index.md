@@ -36,10 +36,11 @@ livet ställs på ända?
 ## Så preppar du för lidande
 ![Lottie Eriksson](assets/img/speakers/lottie_eriksson.jpg 'Lottie Eriksson'){:class="portrait-image"}
 #### Tis 10 mars, talare Lottie Eriksson
-Skador, förluster, sorg; lidande kan drabba oss i många olika former.
-Från ett personligt perspektiv leds vi i samtal kring detta svåra ämne.
-Som doktorand i systematisk teologi kommer Lottie Eriksson även dyka ned i olika
-teologiska och filosifiska synsätt kring lidande.
+Lottie Eriksson är doktorand i systematisk teologi vid Göteborgs Universitet
+och hon kommer dela med sig av teologiska och filosofiska perspektiv på
+lidande och smärta. Detta är något som drabbar oss i många former; skador,
+förluster, sjukdom och sorg. Kan vi hitta någon tröst mitt i lidandet och hur
+kan vi acceptera smärta som en del av livet?
 
 ## Så preppar du för relationskris
 ![Hanna Möllås](assets/img/speakers/hanna_mollas.jpg 'Hanna Möllås'){:class="portrait-image"}
