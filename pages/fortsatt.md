@@ -29,9 +29,17 @@ tags:
       <a href="https://goo.gl/forms/YBRcXxyDgdSKODZv1" class="button list-button">Anmäl intresse</a>
     </div>
   </div>
-  <div style="display: table-row">
+  <div class="list-row">
     <div class="list-cell">
-      3. Individuell vägledning
+      3. Bokcirkel på Samtalotekets terminstema
+    </div>
+    <div class="list-cell">
+      <a href="https://forms.gle/mKPKNtTmzRZcuiD66" class="button list-button">Anmäl intresse</a>
+    </div>
+  </div>
+  <div class="list-row">
+    <div class="list-cell">
+      4. Individuell vägledning
     </div>
     <div class="list-cell">
       <a href="https://goo.gl/forms/HMKt2gSED6Hfn0im1" class="button list-button">Anmäl intresse</a>
