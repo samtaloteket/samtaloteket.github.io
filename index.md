@@ -7,6 +7,8 @@ feature-img: assets/img/headers/topp\_samtaloteket.jpg
 feature-img-height: 40%
 published: true
 ---
+**Observera: Samtaloteket byter lokal. Så fort det är klart kan du se platsen
+för nästa Samtalotek på sociala medier eller här på hemsidan.**
 
 En kan glida oreflekterat igenom livet, eller ta sig an viktiga
 frågor för att bilda sig en egen uppfattning. Samtaloteket är en plats för det
@@ -50,10 +52,6 @@ Med djup erfarenhet och stor humor kommer hon tala om kriser relaterat till
 vänskapsrelationer, parrelationer och singelskap.
 
 ## Välkommen!
-Samtalet hittar du alltid 18.00 - 20.00 på Condeco Västra Hamngatan 16
-
-<div style="text-align: center">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2131.74625292261!2d11.962074615899875!3d57.70378074731207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36600d77e59%3A0x22e24f69307e2985!2sCondeco+V%C3%A4stra+Hamngatan!5e0!3m2!1ssv!2sse!4v1532376020924" width="600" height="450" frameborder="0" style="border:0; padding:0" allowfullscreen></iframe>
-</div>
+Samtalet är alltid kl. 18.00 - 20.00, lokal meddelas inom kort.
 
 <small>Foto på Hanna Möllås av Lina Alriksson</small><br />
