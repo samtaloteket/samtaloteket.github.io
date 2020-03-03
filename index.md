@@ -7,8 +7,7 @@ feature-img: assets/img/headers/topp\_samtaloteket.jpg
 feature-img-height: 40%
 published: true
 ---
-**Observera: Samtaloteket byter lokal. Så fort det är klart kan du se platsen
-för nästa Samtalotek på sociala medier eller här på hemsidan.**
+**Observera: Samtaloteket byter lokal. Resten av hösten håller vi till på Evas Paley, Kungsportsavenyen 39.**
 
 En kan glida oreflekterat igenom livet, eller ta sig an viktiga
 frågor för att bilda sig en egen uppfattning. Samtaloteket är en plats för det
@@ -52,6 +51,10 @@ Med djup erfarenhet och stor humor kommer hon tala om kriser relaterat till
 vänskapsrelationer, parrelationer och singelskap.
 
 ## Välkommen!
-Samtalet är alltid kl. 18.00 - 20.00, lokal meddelas inom kort.
+Samtalet hittar du kl. 18.00 - 20.00 på Evas Paley, Kungsportsavenyen 39.
+
+<div style="text-align: center">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2132.067662754655!2d11.975337915858992!3d57.69832024774254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff37116277727%3A0x6867e6a1c96e843d!2sEva&#39;s%20Paley!5e0!3m2!1ssv!2sse!4v1583260716303!5m2!1ssv!2sse" width="600" height="450" frameborder="0" style="border:0; padding:0" allowfullscreen></iframe>
+</div>
 
 <small>Foto på Hanna Möllås av Lina Alriksson</small><br />
