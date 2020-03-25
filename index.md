@@ -7,7 +7,7 @@ feature-img: assets/img/headers/topp\_samtaloteket.jpg
 feature-img-height: 40%
 published: true
 ---
-**Observera: Samtaloteket byter lokal. Resten av hösten håller vi till på Evas Paley, Kungsportsavenyen 39.**
+**Observera: På grund av COVID-19 kommer föredraget med Hanna Möllås livesändas på vår [Facebooksida](https://www.facebook.com/samtaloteket). Onsdag 1 april kl. 18.00.**
 
 En kan glida oreflekterat igenom livet, eller ta sig an viktiga
 frågor för att bilda sig en egen uppfattning. Samtaloteket är en plats för det
