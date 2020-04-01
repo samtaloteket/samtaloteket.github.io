@@ -7,7 +7,19 @@ feature-img: assets/img/headers/topp\_samtaloteket.jpg
 feature-img-height: 40%
 published: true
 ---
-**Observera: På grund av COVID-19 kommer föredraget med Hanna Möllås livesändas på vår [Facebooksida](https://www.facebook.com/samtaloteket). Onsdag 1 april kl. 18.00.**
+**Kvällens Samtalotek online med Hanna Möllås är inställt p.g.a. (ej corona-relaterad) sjukdom.**
+
+**För er som planerat att ses/videochatta för att samtala kan vi rekommendera ett avsnitt från podden som känns allt för relevant i dagens läge.**
+
+#### Lars Lilled: "Mening i meningslösheten"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-05-lars-lilled.mp3">
+Din webbläsare stödjer inte inbäddat ljud.
+</audio>
+Lars Lilled har under många år arbetat med krissituationer inom Göteborgs stad.
+Bland annat var han ledande i att ta hand om de sörjande och chockade efter
+diskoteksbranden på Hisingen för nästan exakt 20 år sedan.
+
+---
 
 En kan glida oreflekterat igenom livet, eller ta sig an viktiga
 frågor för att bilda sig en egen uppfattning. Samtaloteket är en plats för det
