@@ -8,6 +8,25 @@ published: true
 
 Här hittar du teman och kan lyssna på tidigare terminer av Samtaloteket.
 
+### Våren 2020: När krisen kommer
+
+#### Torgny Wirén: "Så preppar du för existentiell kris och tvivel"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-17-torgny-wiren.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+Existentiell kris, vad är det? Torgny Wirén, skolpräst och författare till både
+andaktsböcker och romaner, har mött den själv såväl som i samtal. Här på
+Samtaloteket blandar han personliga erfarenheter med redskap för att hantera en
+existentiell karta som ritas om. Det blev som alltid spännande samtal och
+intressanta frågor till Torgny på slutet.
+
+#### Lottie Eriksson: "Så preppar du för lidande"
+<audio controls src="http://pod.samtaloteket.se/episodes/Samtaloteket-19-lottie-eriksson.mp3">
+Din webbläsare städjer inte inbäddat ljud.
+</audio>
+Lottie Eriksson, doktorand i systematisk teologi, talade om lidande och smärta.
+Håll till godo!
+
 ### Hösten 2019: Klimathopp
 
 #### Andreas Nordlander: "En liten kväll om de stora berättelserna"
