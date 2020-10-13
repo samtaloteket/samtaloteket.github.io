@@ -48,7 +48,7 @@ Saronförsamlingen och är en av initiativtagarna till Samtaloteket.
 ![Christer Mattsson](assets/img/speakers/christer_mattsson.jpg 'Christer Mattsson'){:class="portrait-image"}
 #### Ons 4 nov, talare Christer Mattsson
 För 22 år sedan möttes en ung lärare och en tonårskille i ett klassrum för att
-debattera nazism. Tonårskillen blev senare av Sveriges ledande
+debattera nazism. Tonårskillen blev senare en av Sveriges ledande
 högerextremister. – Jag vann debatten men jag förlorade eleven, säger Christer
 Mattsson.
 
@@ -82,4 +82,3 @@ Samtalet hittar du kl. 18.00 - 20.00 i Saronkyrkan, Brunnsgatan 3, samt livestre
 <div style="text-align: center">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2132.3718320570456!2d11.956558816461845!3d57.693152348149134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36b50b081f3%3A0xc57eeab66ec83bbd!2sSaronf%C3%B6rsamlingen%20i%20G%C3%B6teborg!5e0!3m2!1sen!2sse!4v1601122914042!5m2!1sen!2sse" width="600" height="450" frameborder="0" style="border:0; padding:0" allowfullscreen></iframe>
 </div>
-
