@@ -8,7 +8,7 @@ feature-img-height: 40%
 published: true
 ---
 
-**Höstens samtalotek kommer streamas på Facebook, men även live på två plan i Saronkyrkan i Göteborg. Välkommen!**
+**TYVÄRR ÄR ONSDAGENS SAMTALOTEKET INSTÄLLT. I dialog med föreläsaren tror vi att detta samtal bör genomföras live. Vi gör allt vi kan för att få till denna kväll med Christer Mattsson vid ett senare tillfälle.**
 
 ---
 
@@ -44,9 +44,9 @@ har fokuserat på bl.a. mötet mellan olika professioners synsätt och användni
 av evidens. Morten har i många år haft huvudansvaret för unga vuxna i
 Saronförsamlingen och är en av initiativtagarna till Samtaloteket. 
 
-## Samtalet - farligt
+## ~Samtalet - farligt~
 ![Christer Mattsson](assets/img/speakers/christer_mattsson.jpg 'Christer Mattsson'){:class="portrait-image"}
-#### Ons 4 nov, talare Christer Mattsson
+#### ~Ons 4 nov, talare Christer Mattsson~
 För 22 år sedan möttes en ung lärare och en tonårskille i ett klassrum för att
 debattera nazism. Tonårskillen blev senare en av Sveriges ledande
 högerextremister. – Jag vann debatten men jag förlorade eleven, säger Christer
