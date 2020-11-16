@@ -8,12 +8,6 @@ feature-img-height: 40%
 published: true
 ---
 
-**Samtalet - formande med Elin Liljero Eriksson. Live ikväll kl. 18**
-
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsamtaloteket%2Fvideos%2F1344119282604667%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
----
-
 En kan glida oreflekterat igenom livet, eller ta sig an viktiga
 frågor för att bilda sig en egen uppfattning. Samtaloteket är en plats för det
 senare i en trevlig miljö och med ledning av kunniga talare med olika bakgrund
