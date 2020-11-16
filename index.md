@@ -8,8 +8,8 @@ feature-img-height: 40%
 published: true
 ---
 
-**TYVÄRR ÄR ONSDAGENS SAMTALOTEKET INSTÄLLT. I dialog med föreläsaren tror vi att detta samtal bör genomföras live. Vi gör allt vi kan för att få till denna kväll med Christer Mattsson vid ett senare tillfälle.**
-
+**Samtalet - formande med Elin Liljero Eriksson. Live ikväll kl. 18**
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsamtaloteket%2Fposts%2F1248535535513569&amp;width=640" width="640" height="480" style="border:none;overflow:hidden;padding:0" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 ---
 
 En kan glida oreflekterat igenom livet, eller ta sig an viktiga
