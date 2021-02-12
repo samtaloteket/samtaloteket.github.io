@@ -8,6 +8,14 @@ published: true
 
 Här hittar du teman och kan lyssna på tidigare terminer av Samtaloteket.
 
+### Hösten 2020: Samtalet – farligt, formande, förbjudet
+
+#### Morten Sager: "Samtalet - förbjudet"
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsamtaloteket%2Fvideos%2F804779230355915%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden;padding:0" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+#### Elin Liljero Eriksson: "Samtalet - formande"
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsamtaloteket%2Fvideos%2F1344119282604667%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden;padding:0" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 ### Våren 2020: När krisen kommer
 
 #### Torgny Wirén: "Så preppar du för existentiell kris och tvivel"
