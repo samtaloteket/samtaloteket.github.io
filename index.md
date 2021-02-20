@@ -42,7 +42,7 @@ har fått fäste vid universitet både i Amsterdam och Paris - varför då?
 Länk till Zoom hittas på [eventet på facebook](https://www.facebook.com/events/240015384392338).
 
 ## Varför spöken och vålnader?
-<!--![Lars Johansson](assets/img/speakers/lars_johansson.jpg 'Lars Johansson'){:class="portrait-image"}-->
+![Lars Johansson](assets/img/speakers/lars_johansson.jpg 'Lars Johansson'){:class="portrait-image"}
 #### Ons 24 mars, talare Lars Johansson
 Var femte svensk tror på vålnader av något slag, enligt en undersökning från 2012.
 Tanken på spöken och andra väsen verkar ha funnits i alla tider, men lika
@@ -56,7 +56,7 @@ religionshistoria vid Akademin för ledarskap och teologi i Örebro. Lars har
 tidskriften Nod.
 
 ## Varför helande och mirakler?
-<!--![Micael Grenholm](assets/img/speakers/micael_grenholm.jpg 'Micael Grenholm'){:class="portrait-image"}-->
+![Micael Grenholm](assets/img/speakers/micael_grenholm.jpg 'Micael Grenholm'){:class="portrait-image"}
 #### Ons 28 april, talare Micael Grenholm
 Vad kallar vi ett tillfrisknande utan operation eller medicin, där läkare och
 vetenskapen saknar förklaring? Dessutom hävdar någon att bön ligger bakom. I
