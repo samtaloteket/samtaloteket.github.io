@@ -39,7 +39,7 @@ Henrik Bogdan är professor i religionsvetenskap och religionshistoria och var
 2003 först i Sverige att doktorera på västerländsk esoterism. Ämnet växer och
 har fått fäste vid universitet både i Amsterdam och Paris - varför då?
 
-## [Varför spöken och vålnader?](https://fb.me/e/3iGKKIcGV)
+## Varför spöken och vålnader?
 ![Lars Johansson](assets/img/speakers/lars_johansson.jpg 'Lars Johansson'){:class="portrait-image"}
 #### Ons 24 mars, talare Lars Johansson
 Var femte svensk tror på vålnader av något slag, enligt en undersökning från 2012.
@@ -52,8 +52,6 @@ Lars Johansson är en mycket uppskattad lärare i religionsfilosofi och
 religionshistoria vid Akademin för ledarskap och teologi i Örebro. Lars har
 även varit föreståndare för Forum för tro, kultur och samhälle som bl.a. ger ut
 tidskriften Nod.
-
-Mer detaljer finns på [eventet på facebook](https://fb.me/e/3iGKKIcGV) eller så kan du ansluta [direkt till Zoom](https://zoom.us/j/96956674467?pwd=WkxVQlN0ejQrN2xSUTBYcFAvMVJTQT09), använd lösenord "samtal".
 
 ## Varför helande och mirakler?
 ![Micael Grenholm](assets/img/speakers/micael_grenholm.jpg 'Micael Grenholm'){:class="portrait-image"}
