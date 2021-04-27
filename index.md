@@ -53,7 +53,7 @@ religionshistoria vid Akademin för ledarskap och teologi i Örebro. Lars har
 även varit föreståndare för Forum för tro, kultur och samhälle som bl.a. ger ut
 tidskriften Nod.
 
-## Varför helande och mirakler?
+## [Varför helande och mirakler?](https://www.facebook.com/events/177405967549859)
 ![Micael Grenholm](assets/img/speakers/micael_grenholm.jpg 'Micael Grenholm'){:class="portrait-image"}
 #### Ons 28 april, talare Micael Grenholm
 Vad kallar vi ett tillfrisknande utan operation eller medicin, där läkare och
@@ -67,6 +67,8 @@ Micael Grenholm har mottagit både ”Uppsala fredspris” och ”Årets
 opinionsbildare”, och är grundare till Stefanushjälpen i Uppsala. Grenholm är
 också pastor i husförsamlingen Mosaik och sitter i styrelsen för Svenska
 apologetiksällskapet.
+
+[Länk till Zoom](https://zoom.us/j/96688865088?pwd=U3dIVWVkZlJUcSsrM2FjRFByODBXdz09)
 
 ## Välkommen!
 Samtalet hittar du kl. 18.00 - 20.00 online på Zoom. Länk finns i respektive facebook-event. Mer info på [Facebook](https://www.facebook.com/samtaloteket).
