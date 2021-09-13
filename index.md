@@ -23,9 +23,9 @@ Så mycket i vårt samhälle kretsar kring en längtan efter kärleksrelationen.
 I höstens Samtalotek bjuder vi in till samtalskvällar där vi lyfter frågan om just kärleksrelationen. Välkomna in i samtalet om hållbara (och ohållbara) relationer!
 
 ## [Dejting](https://www.facebook.com/events/219468756821000/)
-<!--
+
 ![Josefin de Grigorio](assets/img/speakers/josefin_de_grigorio.jpg 'Josefin de Grigorio'){:class="portrait-image"}
--->
+
 #### Tis 21 sep, talare Josefin de Grigorio
 Vad är det som är så svårt med kärleksrelationer? Har vi orimliga förväntningar på oss själva och våra partners? Och är det svårare nu än tidigare att skapa en hållbar relation? Josefin de Gregorio leder oss i samtal kring yttre och inre förväntningar på relationer i tinder-dejternas tid.
 
