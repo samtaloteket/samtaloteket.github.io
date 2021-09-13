@@ -15,66 +15,39 @@ och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge di
 in i samtalet så letar vi svar tillsammans.
 
 
-## Det övernaturliga och det sekulära
-Finns det något som är övernaturligt? Och varför är det mystiska så spännande?
-I dagens moderna och sekulära samhälle dras vi ändå till paranormala fenomen.
-Vi tränar yoga och tittar på TV-program om spöken. Att helt leva utan andlighet
-verkar svårt. Varför? Och hur kommer det sig att den fria andligheten känns så
-intressant, men den organiserade så tråkig?
+## HÅLLBARA RELATIONER - Varför är det så svårt?
+Bonde söker fru, Gift vid första ögonkastet och Love is bind. På Tinder finns över 55 miljarder matchningar och majoriteten av den musik vi lyssnar på handlar om kärlek. Detta samtidigt som det enligt Statistiska centralbyrån skedde 25 619 skilsmässor i Sverige år 2020.
 
-I vårens Samtalotek kommer vi att vrida och vända på det övernaturliga och det
-sekulära, och hur de två samverkar. Under tre tillfällen bjuder vi in till
-samtal, inspirerade av gäster som fördjupat sig i ämnet. Varför är det
-övernaturliga så spännande? Vad finns att finna däri?
+Så mycket i vårt samhälle kretsar kring en längtan efter kärleksrelationen. Men att vara i en kärleksrelation är inte lätt, i alla fall om vi ska se till populärkulturens skildringar av besvikna par, parterapi- och skilsmässosiffror och din kompis som blivit dumpad (eller dumpat) igen. Hållbara relationer, varför är det så svårt?
 
-## Varför magi och New Age?
-![Henrik Bogdan](assets/img/speakers/henrik_bogdan.jpg 'Henrik Bogdan'){:class="portrait-image"}
-#### Ons 24 feb, talare Henrik Bogdan
-Alkemi, magi och astrologi står på schemat i vårens första Samtalotek. Hur
-förhåller sig dessa till traditionell vetenskap och religion? Inspiration och
-guidning för samtalen får vi av en expert i hemliga läror och ordrar, eller
-esoterism som forskningsfältet kallas.
+I höstens Samtalotek bjuder vi in till samtalskvällar där vi lyfter frågan om just kärleksrelationen. Välkomna in i samtalet om hållbara (och ohållbara) relationer!
 
-Henrik Bogdan är professor i religionsvetenskap och religionshistoria och var
-2003 först i Sverige att doktorera på västerländsk esoterism. Ämnet växer och
-har fått fäste vid universitet både i Amsterdam och Paris - varför då?
+## [Dejting](https://www.facebook.com/events/219468756821000/)
+<!--
+![Josefin de Grigorio](assets/img/speakers/josefin_de_grigorio.jpg 'Josefin de Grigorio'){:class="portrait-image"}
+-->
+#### Tis 21 sep, talare Josefin de Grigorio
+Vad är det som är så svårt med kärleksrelationer? Har vi orimliga förväntningar på oss själva och våra partners? Och är det svårare nu än tidigare att skapa en hållbar relation? Josefin de Gregorio leder oss i samtal kring yttre och inre förväntningar på relationer i tinder-dejternas tid.
 
-## Varför spöken och vålnader?
-![Lars Johansson](assets/img/speakers/lars_johansson.jpg 'Lars Johansson'){:class="portrait-image"}
-#### Ons 24 mars, talare Lars Johansson
-Var femte svensk tror på vålnader av något slag, enligt en undersökning från 2012.
-Tanken på spöken och andra väsen verkar ha funnits i alla tider, men lika
-länge har människor också diskuterat om de faktiskt finns på riktigt. Vi tar
-avstamp i Lars artikel “Vålnadernas historia” från tidskriften Nod och
-utforskar detta spännande ämne i samtal.
+Josefin de Gregorio är litteraturvetare och författare. För närvarande är hon vikarierande redaktör för kulturnyheter och debatt på Svenska Dagbladet. År 2020 myntade hon begreppet ”kanskemannen”, han som dejtar och pratar filosofi men inte tar steget och älskar fullt ut. Begreppet blev ett betydande inlägg i debatten den sexuella revolutionens baksida.
 
-Lars Johansson är en mycket uppskattad lärare i religionsfilosofi och
-religionshistoria vid Akademin för ledarskap och teologi i Örebro. Lars har
-även varit föreståndare för Forum för tro, kultur och samhälle som bl.a. ger ut
-tidskriften Nod.
+## Tvåsamhet
+<!--
+![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}
+-->
+#### Ons 20 okt, talare Emma Audas
 
-## [Varför helande och mirakler?](https://www.facebook.com/events/177405967549859)
-![Micael Grenholm](assets/img/speakers/micael_grenholm.jpg 'Micael Grenholm'){:class="portrait-image"}
-#### Ons 28 april, talare Micael Grenholm
-Vad kallar vi ett tillfrisknande utan operation eller medicin, där läkare och
-vetenskapen saknar förklaring? Dessutom hävdar någon att bön ligger bakom. I
-Boken Dokumenterade Mirakler beskriver Micael Grenholm över 50 sådana fall i
-Sverige, baserat på journaler och läkarutlåtanden. Dessa vetenskapligt
-oförklarliga tillfrisknanden efter bön ska vi få samtala kring och tillsammans
-fråga oss vad vi gör när vetenskapen inte räcker till?
+## Hur är det möjligt?
+<!--
+![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}
+-->
 
-Micael Grenholm har mottagit både ”Uppsala fredspris” och ”Årets
-opinionsbildare”, och är grundare till Stefanushjälpen i Uppsala. Grenholm är
-också pastor i husförsamlingen Mosaik och sitter i styrelsen för Svenska
-apologetiksällskapet.
+#### Mån 15 nov, talare Christina Halldorf
 
-[Länk till Zoom](https://zoom.us/j/96688865088?pwd=U3dIVWVkZlJUcSsrM2FjRFByODBXdz09)
 
 ## Välkommen!
-Samtalet hittar du kl. 18.00 - 20.00 online på Zoom. Länk finns i respektive facebook-event. Mer info på [Facebook](https://www.facebook.com/samtaloteket).
+Samtalet hittar du kl. 18.00 - 20.00 på Condeco, Kungsgatan 45, Göteborg. Mer info på [Facebook](https://www.facebook.com/samtaloteket).
 
-<!--
 <div style="text-align: center">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2132.3718320570456!2d11.956558816461845!3d57.693152348149134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36b50b081f3%3A0xc57eeab66ec83bbd!2sSaronf%C3%B6rsamlingen%20i%20G%C3%B6teborg!5e0!3m2!1sen!2sse!4v1601122914042!5m2!1sen!2sse" width="600" height="450" frameborder="0" style="border:0; padding:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2131.709934542498!2d11.964510816462013!3d57.70439774726267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464ff36f899a096f%3A0xb1ede17b02db4611!2sCondeco%20Kungsgatan!5e0!3m2!1ssv!2sse!4v1631559932082!5m2!1ssv!2sse" width="600" height="450" frameborder="0" style="border:0; padding:0" allowfullscreen></iframe>
 </div>
--->
