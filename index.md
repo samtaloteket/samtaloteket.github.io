@@ -41,7 +41,7 @@ Josefin de Gregorio är litteraturvetare och författare. För närvarande är h
 
 Vad gör man när slitningen uppstår, den att fortsätta kämpa och ge upp när det är dags att ge upp? Hur hanterar vi svårigheterna i kärleksrelationen? Vad gör man när livet kraschar i och med att relationen går sönder? Och hur stöttar vi varandra i den processen?
 
-I kvällens Samtalotek leder prästen och teologen Emma Audas oss i detta både personliga och potentiellt såriga ämne. År 2020 disputerade hon med sin avhandling ”Det heliga äktenskapet”, som också släppts som bok. 
+I kvällens Samtalotek leder prästen och teologen Emma Audas oss i detta både personliga och smärtsamma ämne. År 2020 disputerade hon med sin avhandling ”Det heliga äktenskapet”, som också släppts som bok. 
 
 
 ## Hur är det möjligt?
