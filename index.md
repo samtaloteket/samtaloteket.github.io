@@ -26,7 +26,7 @@ I höstens Samtalotek bjuder vi in till samtalskvällar där vi lyfter frågan o
 
 ![Josefin de Grigorio](assets/img/speakers/josefin_de_grigorio.jpg 'Josefin de Grigorio'){:class="portrait-image"}
 
-#### Tis 21 sep, talare Josefin de Grigorio
+#### Ons 6 okt, talare Josefin de Grigorio
 Vad är det som är så svårt med kärleksrelationer? Har vi orimliga förväntningar på oss själva och våra partners? Och är det svårare nu än tidigare att skapa en hållbar relation? Josefin de Gregorio leder oss i samtal kring yttre och inre förväntningar på relationer i tinder-dejternas tid.
 
 Josefin de Gregorio är litteraturvetare och författare. För närvarande är hon vikarierande redaktör för kulturnyheter och debatt på Svenska Dagbladet. År 2020 myntade hon begreppet ”kanskemannen”, han som dejtar och pratar filosofi men inte tar steget och älskar fullt ut. Begreppet blev ett betydande inlägg i debatten den sexuella revolutionens baksida.
@@ -36,6 +36,13 @@ Josefin de Gregorio är litteraturvetare och författare. För närvarande är h
 ![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}
 -->
 #### Ons 20 okt, talare Emma Audas
+
+”Att dela glädje och sorg med dig och vara dig trogen tills döden skiljer oss åt”. Tills döden skiljer oss åt? 
+
+Vad gör man när slitningen uppstår, den att fortsätta kämpa och ge upp när det är dags att ge upp? Hur hanterar vi svårigheterna i kärleksrelationen? Vad gör man när livet kraschar i och med att relationen går sönder? Och hur stöttar vi varandra i den processen?
+
+I kvällens Samtalotek leder prästen och teologen Emma Audas oss i detta både personliga och potentiellt såriga ämne. År 2020 disputerade hon med sin avhandling ”Det heliga äktenskapet”, som också släppts som bok. 
+
 
 ## Hur är det möjligt?
 <!--
