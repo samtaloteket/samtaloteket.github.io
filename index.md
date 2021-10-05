@@ -32,9 +32,9 @@ Vad är det som är så svårt med kärleksrelationer? Har vi orimliga förvänt
 Josefin de Gregorio är litteraturvetare och författare. För närvarande är hon vikarierande redaktör för kulturnyheter och debatt på Svenska Dagbladet. År 2020 myntade hon begreppet ”kanskemannen”, han som dejtar och pratar filosofi men inte tar steget och älskar fullt ut. Begreppet blev ett betydande inlägg i debatten den sexuella revolutionens baksida.
 
 ## Tvåsamhet
-<!--
+
 ![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}
--->
+
 #### Ons 20 okt, talare Emma Audas
 
 ”Att dela glädje och sorg med dig och vara dig trogen tills döden skiljer oss åt”. Tills döden skiljer oss åt? 
