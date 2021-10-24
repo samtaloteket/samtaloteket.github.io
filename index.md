@@ -45,9 +45,8 @@ I kvällens Samtalotek leder prästen och teologen Emma Audas oss i detta både 
 
 
 ## Hur är det möjligt?
-<!--
+
 ![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}
--->
 
 #### Mån 15 nov, talare Christina Halldorf
 
