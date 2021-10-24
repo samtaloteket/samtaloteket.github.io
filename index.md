@@ -51,6 +51,12 @@ I kvällens Samtalotek leder prästen och teologen Emma Audas oss i detta både 
 
 #### Mån 15 nov, talare Christina Halldorf
 
+Hållbara relationer, konstruktiva relationer, uppbyggande relationer, relationer som håller över tid, och så levde de lyckliga…
+
+I höstterminens sista Samtalotek vill vi lyfta samtalet om de hållbara relationerna. Hur bygger man relationer som håller över tid, de som bygger upp istället för att riva ner? Och kan man ens lyfta den frågan utan att det blir präktigt, kravfyllt eller pretentiöst? 
+
+Samtaloteket bjuder in psykologen och parterapeuten Christina Halldorf som bl.a. skriver på tidningen Dagens relationssajt. Kvällens fokus ligger på samtalet om relationer som fungerar. Välkomna!
+
 
 ## Välkommen!
 Samtalet hittar du kl. 18.00 - 20.00 på Condeco, Kungsgatan 45, Göteborg. Mer info på [Facebook](https://www.facebook.com/samtaloteket).
