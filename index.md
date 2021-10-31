@@ -47,6 +47,7 @@ I kvällens Samtalotek leder prästen och teologen Emma Audas oss i detta både 
 ## Hur är det möjligt?
 
 ![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}
+Foto: Zandra Erikshed
 
 #### Mån 15 nov, talare Christina Halldorf
 
@@ -54,7 +55,7 @@ Hållbara relationer, konstruktiva relationer, uppbyggande relationer, relatione
 
 I höstterminens sista Samtalotek vill vi lyfta samtalet om de hållbara relationerna. Hur bygger man relationer som håller över tid, de som bygger upp istället för att riva ner? Och kan man ens lyfta den frågan utan att det blir präktigt, kravfyllt eller pretentiöst? 
 
-Samtaloteket bjuder in psykologen och parterapeuten Christina Halldorf som bl.a. skriver på tidningen Dagens relationssajt. Kvällens fokus ligger på samtalet om relationer som fungerar. Välkomna!
+Samtaloteket bjuder in psykoterapeut Christina Halldorf som bl.a. skriver på tidningen Dagens relationssajt. Kvällens fokus ligger på samtalet om relationer som fungerar. Välkomna!
 
 
 ## Välkommen!
