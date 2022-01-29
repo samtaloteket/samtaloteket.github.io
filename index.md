@@ -33,7 +33,7 @@ Mikael Kurkiala är kulturantropologi samt forskare och omvärldsbevakare vid en
 
 ## Landet och pengarna
 
-![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}!
+![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}
 
 #### Tis 8 mars, talare David Jonstad
 Finns det alternativ till det liv vi lever nu? På TV flyr kändisar stadens stressfyllda liv och köper bondgårdar för att bli självförsörjande. Men är drömmen om landet lösningen, eller en verklighetsflykt som väldigt få priviligierade människor har möjligheten att ens överväga? Vad är det äkta livet, och varför längtar vi efter det?
@@ -43,7 +43,7 @@ David Jonstad är författare, föreläsare och frilansskribent, och har skrivit
 
 ## Maktlösheten och pengarna
 
-![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}!
+![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}
 Foto: Zandra Erikshed
 
 #### Mån 4 april, talare Eva Erlandsson
