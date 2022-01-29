@@ -15,47 +15,41 @@ och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge di
 in i samtalet så letar vi svar tillsammans.
 
 
-## HÅLLBARA RELATIONER - Varför är det så svårt?
-Bonde söker fru, Gift vid första ögonkastet och Love is bind. På Tinder finns över 55 miljarder matchningar och majoriteten av den musik vi lyssnar på handlar om kärlek. Detta samtidigt som det enligt Statistiska centralbyrån skedde 25 619 skilsmässor i Sverige år 2020.
+## Follow the money
 
-Så mycket i vårt samhälle kretsar kring en längtan efter kärleksrelationen. Men att vara i en kärleksrelation är inte lätt, i alla fall om vi ska se till populärkulturens skildringar av besvikna par, parterapi- och skilsmässosiffror och din kompis som blivit dumpad (eller dumpat) igen. Hållbara relationer, varför är det så svårt?
+Det ryktas om att vi inte värderar jobbet lika högt nu som vi gjorde tidigare. Allt fler vill jobba mindre och i stället fokusera på det som verkligen är viktigt. Men vad är egentligen ”verkligen viktigt”, och vad formar vår bild av vad som är det? Är vi redo att tjäna mindre, om det betyder att vi måste skära ner på vår livsstandard? Och vad menar folk när de pratar om ”det goda livet”? 
+På terminens Samtalotek vill vi ”follow the money” och tillsammans provtänka kring roten av våra begär och drivkrafter. Varmt välkomna till Condeco för att samtala med oss!
 
-I höstens Samtalotek bjuder vi in till samtalskvällar där vi lyfter frågan om just kärleksrelationen. Välkomna in i samtalet om hållbara (och ohållbara) relationer!
 
 ## [Dejting](https://www.facebook.com/events/219468756821000/)
 
 ![Josefin de Grigorio](assets/img/speakers/josefin_de_grigorio.jpg 'Josefin de Grigorio'){:class="portrait-image"}
 
-#### Ons 6 okt, talare Josefin de Grigorio
-Vad är det som är så svårt med kärleksrelationer? Har vi orimliga förväntningar på oss själva och våra partners? Och är det svårare nu än tidigare att skapa en hållbar relation? Josefin de Gregorio leder oss i samtal kring yttre och inre förväntningar på relationer i tinder-dejternas tid.
+#### Ons 9 feb, talare Mikael Kurkiala
+Hemlösa får det allt svårare att vistas på offentliga platser, bänkar designas för att medvetet göra det svårt att använda dem som sovplats. I samhället måste vi tjäna pengar för att vara någonting, annars blir vi exkluderade. Är det något vi reflekterar över?
 
-Josefin de Gregorio är litteraturvetare och författare. För närvarande är hon vikarierande redaktör för kulturnyheter och debatt på Svenska Dagbladet. År 2020 myntade hon begreppet ”kanskemannen”, han som dejtar och pratar filosofi men inte tar steget och älskar fullt ut. Begreppet blev ett betydande inlägg i debatten den sexuella revolutionens baksida.
+Mikael Kurkiala är kulturantropologi samt forskare och omvärldsbevakare vid enheten för forskning och analys. Han har också skrivit boken ”När själen går i exil”. I sin bok skriver han om att den allt högre välfärden tränger ut de existentiella samtalen. Vi verkar inte ha tid för dem längre, vilket leder till en känsla av ensamhet. Vad längtar vi efter, som pengar inte verkar kunna ge oss? Välkomna!
 
-## Tvåsamhet
+
+## Landet och pengarna
 
 ![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}
 
-#### Ons 20 okt, talare Emma Audas
+#### Tis 8 mars, talare David Jonstad
+Finns det alternativ till det liv vi lever nu? På TV flyr kändisar stadens stressfyllda liv och köper bondgårdar för att bli självförsörjande. Men är drömmen om landet lösningen, eller en verklighetsflykt som väldigt få priviligierade människor har möjligheten att ens överväga? Vad är det äkta livet, och varför längtar vi efter det?
 
-”Att dela glädje och sorg med dig och vara dig trogen tills döden skiljer oss åt”. Tills döden skiljer oss åt? 
-
-Vad gör man när slitningen uppstår, den att fortsätta kämpa och ge upp när det är dags att ge upp? Hur hanterar vi svårigheterna i kärleksrelationen? Vad gör man när livet kraschar i och med att relationen går sönder? Och hur stöttar vi varandra i den processen?
-
-I kvällens Samtalotek leder prästen och teologen Emma Audas oss i detta både personliga och smärtsamma ämne. År 2020 disputerade hon med sin avhandling ”Det heliga äktenskapet”, som också släppts som bok. 
+David Jonstad är författare, föreläsare och frilansskribent, och har skrivit om sina erfarenheter av sin flytt till landet i boken ”Meningen med landet”. I kvällens Samtalotek lyfter han längtan efter det äkta livet, samtidigt som han synar vårt samhälle i sömmarna. Välkomna!
 
 
-## Hur är det möjligt?
+## Maktlösheten och pengarna
 
 ![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}
 Foto: Zandra Erikshed
 
-#### Mån 15 nov, talare Christina Halldorf
+#### Mån 4 april, talare Eva Erlandsson
+IPhone 13 Pro, Bose Noise Cancelling Headphones och Tesla Model Y. Det finns alltid en ny modell som vi missat, och den strida ström av lyxprodukter som vi exponeras för gör att vi ofta drömmer oss bort till ett liv med mer pengar. Men vad vore vårt liv helt utan pengar? Vad händer när alla pengar inte längre är en fråga om valmöjligheter utan överlevnad? Vilka blir vi i den maktlösheten?
 
-Hållbara relationer, konstruktiva relationer, uppbyggande relationer, relationer som håller över tid, och så levde de lyckliga…
-
-I höstterminens sista Samtalotek vill vi lyfta samtalet om de hållbara relationerna. Hur bygger man relationer som håller över tid, de som bygger upp istället för att riva ner? Och kan man ens lyfta den frågan utan att det blir präktigt, kravfyllt eller pretentiöst? 
-
-Samtaloteket bjuder in psykoterapeut Christina Halldorf som bl.a. skriver på tidningen Dagens relationssajt. Kvällens fokus ligger på samtalet om relationer som fungerar. Välkomna!
+Eva Erlandsson är pastor och jobbar inom Räddningsmissionen. Hon är också verksamhetsledare för Gatukyrkan som anordnar soppkök, frukostkafé och mässor för människor i social utsatthet. Välkomna!
 
 
 ## Välkommen!
