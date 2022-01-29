@@ -21,9 +21,9 @@ Det ryktas om att vi inte värderar jobbet lika högt nu som vi gjorde tidigare.
 På terminens Samtalotek vill vi ”follow the money” och tillsammans provtänka kring roten av våra begär och drivkrafter. Varmt välkomna till Condeco för att samtala med oss!
 
 
-## [Dejting](https://www.facebook.com/events/219468756821000/)
+## [Själen och pengarna](https://www.facebook.com/events/491757282304804)
 
-![Josefin de Grigorio](assets/img/speakers/josefin_de_grigorio.jpg 'Josefin de Grigorio'){:class="portrait-image"}
+![Josefin de Grigorio](assets/img/speakers/josefin_de_grigorio.jpg 'Josefin de Grigorio'){:class="portrait-image"}!
 
 #### Ons 9 feb, talare Mikael Kurkiala
 Hemlösa får det allt svårare att vistas på offentliga platser, bänkar designas för att medvetet göra det svårt att använda dem som sovplats. I samhället måste vi tjäna pengar för att vara någonting, annars blir vi exkluderade. Är det något vi reflekterar över?
@@ -33,7 +33,7 @@ Mikael Kurkiala är kulturantropologi samt forskare och omvärldsbevakare vid en
 
 ## Landet och pengarna
 
-![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}
+![Emma Audas](assets/img/speakers/emma_audas.jpg 'Emma Audas'){:class="portrait-image"}!
 
 #### Tis 8 mars, talare David Jonstad
 Finns det alternativ till det liv vi lever nu? På TV flyr kändisar stadens stressfyllda liv och köper bondgårdar för att bli självförsörjande. Men är drömmen om landet lösningen, eller en verklighetsflykt som väldigt få priviligierade människor har möjligheten att ens överväga? Vad är det äkta livet, och varför längtar vi efter det?
@@ -43,7 +43,7 @@ David Jonstad är författare, föreläsare och frilansskribent, och har skrivit
 
 ## Maktlösheten och pengarna
 
-![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}
+![Christina Halldorf](assets/img/speakers/christina_halldorf.jpg 'Christina Halldorf'){:class="portrait-image"}!
 Foto: Zandra Erikshed
 
 #### Mån 4 april, talare Eva Erlandsson
