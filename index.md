@@ -23,7 +23,7 @@ På terminens Samtalotek vill vi ”follow the money” och tillsammans provtän
 
 ## [Själen och pengarna](https://www.facebook.com/events/491757282304804)
 
-![Josefin de Grigorio](assets/img/speakers/josefin_de_grigorio.jpg 'Josefin de Grigorio'){:class="portrait-image"}!
+![Mikael Kurkiala](assets/img/speakers/mikael_kurkiala.jpg 'Josefin de Grigorio'){:class="portrait-image"}
 
 #### Ons 9 feb, talare Mikael Kurkiala
 Hemlösa får det allt svårare att vistas på offentliga platser, bänkar designas för att medvetet göra det svårt att använda dem som sovplats. I samhället måste vi tjäna pengar för att vara någonting, annars blir vi exkluderade. Är det något vi reflekterar över?
