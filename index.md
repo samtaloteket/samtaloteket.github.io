@@ -44,7 +44,6 @@ David Jonstad är författare, föreläsare och frilansskribent, och har skrivit
 ## Maktlösheten och pengarna
 
 ![Eva Erlandsson](assets/img/speakers/eva_erlandsson.jpg 'Eva Erlandsson'){:class="portrait-image"}
-Foto: Zandra Erikshed
 
 #### Mån 4 april, talare Eva Erlandsson
 IPhone 13 Pro, Bose Noise Cancelling Headphones och Tesla Model Y. Det finns alltid en ny modell som vi missat, och den strida ström av lyxprodukter som vi exponeras för gör att vi ofta drömmer oss bort till ett liv med mer pengar. Men vad vore vårt liv helt utan pengar? Vad händer när alla pengar inte längre är en fråga om valmöjligheter utan överlevnad? Vilka blir vi i den maktlösheten?
