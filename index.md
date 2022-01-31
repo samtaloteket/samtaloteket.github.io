@@ -33,7 +33,7 @@ Mikael Kurkiala är kulturantropologi samt forskare och omvärldsbevakare vid en
 
 ## Landet och pengarna
 
-![David Jonstad](assets/img/speakers/david_jonstad.jpg 'David Jonstad'){:class="portrait-image"}
+![David Jonstad](assets/img/speakers/david_jonstad.jpeg 'David Jonstad'){:class="portrait-image"}
 
 #### Tis 8 mars, talare David Jonstad
 Finns det alternativ till det liv vi lever nu? På TV flyr kändisar stadens stressfyllda liv och köper bondgårdar för att bli självförsörjande. Men är drömmen om landet lösningen, eller en verklighetsflykt som väldigt få priviligierade människor har möjligheten att ens överväga? Vad är det äkta livet, och varför längtar vi efter det?
