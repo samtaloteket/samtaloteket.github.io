@@ -23,7 +23,7 @@ På terminens Samtalotek vill vi ”follow the money” och tillsammans provtän
 
 ## [Själen och pengarna](https://www.facebook.com/events/491757282304804)
 
-![Mikael Kurkiala](assets/img/speakers/mikael_kurkiala.jpg 'Josefin de Grigorio'){:class="portrait-image"}
+![Mikael Kurkiala](assets/img/speakers/mikael_kurkiala.jpg 'Mikael Kurkiala'){:class="portrait-image"}
 
 #### Ons 9 feb, talare Mikael Kurkiala
 Hemlösa får det allt svårare att vistas på offentliga platser, bänkar designas för att medvetet göra det svårt att använda dem som sovplats. I samhället måste vi tjäna pengar för att vara någonting, annars blir vi exkluderade. Är det något vi reflekterar över?
@@ -33,7 +33,7 @@ Mikael Kurkiala är kulturantropologi samt forskare och omvärldsbevakare vid en
 
 ## Landet och pengarna
 
-![Emma Audas](assets/img/speakers/.jpg 'Emma Audas'){:class="portrait-image"}
+![David Jonstad](assets/img/speakers/david_jonstad.jpg 'David Jonstad'){:class="portrait-image"}
 
 #### Tis 8 mars, talare David Jonstad
 Finns det alternativ till det liv vi lever nu? På TV flyr kändisar stadens stressfyllda liv och köper bondgårdar för att bli självförsörjande. Men är drömmen om landet lösningen, eller en verklighetsflykt som väldigt få priviligierade människor har möjligheten att ens överväga? Vad är det äkta livet, och varför längtar vi efter det?
@@ -43,7 +43,7 @@ David Jonstad är författare, föreläsare och frilansskribent, och har skrivit
 
 ## Maktlösheten och pengarna
 
-![Christina Halldorf](assets/img/speakers/.jpg 'Christina Halldorf'){:class="portrait-image"}
+![Eva Erlandsson](assets/img/speakers/eva_erlandsson.jpg 'Eva Erlandsson'){:class="portrait-image"}
 Foto: Zandra Erikshed
 
 #### Mån 4 april, talare Eva Erlandsson
