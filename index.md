@@ -20,7 +20,7 @@ in i samtalet så letar vi svar tillsammans.
 Det ryktas om att vi inte värderar jobbet lika högt nu som vi gjorde tidigare. Allt fler vill jobba mindre och i stället fokusera på det som verkligen är viktigt. Men vad är egentligen ”verkligen viktigt”, och vad formar vår bild av vad som är det? Är vi redo att tjäna mindre, om det betyder att vi måste skära ner på vår livsstandard? Och vad menar folk när de pratar om ”det goda livet”? 
 På terminens Samtalotek vill vi ”follow the money” och tillsammans provtänka kring roten av våra begär och drivkrafter. Varmt välkomna till Condeco för att samtala med oss!
 
-På grund av fortsatta omständigheter kommer denna gång vara begränsad till 40 platser! För att garantera plats så var i god tid.
+Beroende på restriktionerna så kommer vi ha begränsat med platser till 40 personer. Hävs restriktionerna så är dock alla välkomna!
 
 
 ## [Själen och pengarna](https://www.facebook.com/events/491757282304804)
