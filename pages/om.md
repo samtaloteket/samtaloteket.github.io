@@ -23,3 +23,4 @@ för att se en annan människas perspektiv på stora frågor -- och dela med sig
 * Studieförbundet Bilda
 * Navigatörerna
 * Tidskriften NOD
+* Evangeliska Brödraförsamlingen i Göteborg
