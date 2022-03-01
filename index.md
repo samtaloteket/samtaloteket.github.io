@@ -33,7 +33,7 @@ Hemlösa får det allt svårare att vistas på offentliga platser, bänkar desig
 Mikael Kurkiala är kulturantropologi samt forskare och omvärldsbevakare vid enheten för forskning och analys. Han har också skrivit boken ”När själen går i exil”. I sin bok skriver han om att den allt högre välfärden tränger ut de existentiella samtalen. Vi verkar inte ha tid för dem längre, vilket leder till en känsla av ensamhet. Vad längtar vi efter, som pengar inte verkar kunna ge oss? Välkomna!
 
 
-## [Landet och pengarna] (https://www.facebook.com/events/622605025477588)
+## [Landet och pengarna](https://www.facebook.com/events/622605025477588)
 
 ![David Jonstad](assets/img/speakers/david_jonstad.jpeg 'David Jonstad'){:class="portrait-image"}
 
@@ -43,7 +43,7 @@ Finns det alternativ till det liv vi lever nu? På TV flyr kändisar stadens str
 David Jonstad är författare, föreläsare och frilansskribent, och har skrivit om sina erfarenheter av sin flytt till landet i boken ”Meningen med landet”. I kvällens Samtalotek lyfter han längtan efter det äkta livet, samtidigt som han synar vårt samhälle i sömmarna. Välkomna!
 
 
-## [Maktlösheten och pengarna] https://www.facebook.com/events/502657074717200
+## [Maktlösheten och pengarna](https://www.facebook.com/events/502657074717200)
 
 ![Eva Erlandsson](assets/img/speakers/eva_erlandsson.jpg 'Eva Erlandsson'){:class="portrait-image"}
 
