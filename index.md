@@ -15,42 +15,41 @@ och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge di
 in i samtalet så letar vi svar tillsammans.
 
 
-## Follow the money
+## I Kroppen Min
 
-Det ryktas om att vi inte värderar jobbet lika högt nu som vi gjorde tidigare. Allt fler vill jobba mindre och i stället fokusera på det som verkligen är viktigt. Men vad är egentligen ”verkligen viktigt”, och vad formar vår bild av vad som är det? Är vi redo att tjäna mindre, om det betyder att vi måste skära ner på vår levnadsstandard? Och vad menar folk när de pratar om ”det goda livet”? 
-På terminens Samtalotek vill vi ”follow the money” och tillsammans provtänka kring roten av våra begär och drivkrafter. Varmt välkomna till Condeco för att samtala med oss!
+Kroppen: en fantastisk gåva eller ett nödvändigt ont? Det är genom kroppen vi lever, andas och finns till. Samtidigt är det genom kroppen vi känner smärta, genom den som vi påminns om vår begränsning och ändlighet.
 
-Beroende på restriktionerna så kommer vi ha begränsat med platser till 40 personer. Hävs restriktionerna så är dock alla välkomna!
-
-
-## [Själen och pengarna](https://www.facebook.com/events/491757282304804)
-
-![Mikael Kurkiala](assets/img/speakers/mikael_kurkiala.jpg 'Mikael Kurkiala'){:class="portrait-image"}
-
-#### Ons 9 feb, talare Mikael Kurkiala
-Hemlösa får det allt svårare att vistas på offentliga platser, bänkar designas för att medvetet göra det svårt att använda dem som sovplats. I samhället måste vi tjäna pengar för att vara någonting, annars blir vi exkluderade. Är det något vi reflekterar över?
-
-Mikael Kurkiala är kulturantropologi samt forskare och omvärldsbevakare vid enheten för forskning och analys. Han har också skrivit boken ”När själen går i exil”. I sin bok skriver han om att den allt högre välfärden tränger ut de existentiella samtalen. Vi verkar inte ha tid för dem längre, vilket leder till en känsla av ensamhet. Vad längtar vi efter, som pengar inte verkar kunna ge oss? Välkomna!
+Vad innebär det att leva ett liv i en kropp? Hur ställer vi oss till att kroppen förändras? Är min kropp min egen, eller allmän egendom? Går det att försonas med en kropp som brister? Och hur gör man det, i så fall?
 
 
-## [Landet och pengarna](https://www.facebook.com/events/622605025477588)
+## Himmelska kroppar
 
-![David Jonstad](assets/img/speakers/david_jonstad.jpeg 'David Jonstad'){:class="portrait-image"}
+![Mikael Kurkiala](assets/img/speakers/ 'Mikael Kurkiala'){:class="portrait-image"}
 
-#### Tis 8 mars, talare David Jonstad
-Finns det alternativ till det liv vi lever nu? På TV flyr kändisar stadens stressfyllda liv och köper bondgårdar för att bli självförsörjande. Men är drömmen om landet lösningen, eller en verklighetsflykt som väldigt få priviligierade människor har möjligheten att ens överväga? Vad är det äkta livet, och varför längtar vi efter det?
+#### Onsdag 28 sep, talare Ola Sigurdson
+Vad är kroppen, ur ett filosofiskt perspektiv? Är kroppen något gott som vi ska omfamna, eller något vi ska fly ifrån? Och hur har det sett ut genom historien? Är kroppen skild från begrepp som kultur och historia, eller en del av den? 
 
-David Jonstad är författare, föreläsare och frilansskribent, och har skrivit om sina erfarenheter av sin flytt till landet i boken ”Meningen med landet”. I kvällens Samtalotek lyfter han längtan efter det äkta livet, samtidigt som han synar vårt samhälle i sömmarna. Välkomna!
+Ola Sigurdson är professor i tros- och livsåskådningsvetenskap, har publicerat ett tiotal böcker och arbetar på Göteborgs universitet. Han har skrivet boken ”Himmelska kroppar”, en bok om hur det setts på kroppen över tid. Välkomna!
+
+## När jag är svag
+
+![David Jonstad] {:class="portrait-image"}
+
+#### Onsdag 12 okt, talare Olivér Joób
+När kroppen är frisk är det lätt att glömma bort den. Paradoxalt nog är det inte förrän sjukdomen kommer som vi blir varse om hur beroende vi är av att den fungerar. Kanske blir vår kroppslighet som tydligast för oss tider av smärta, sjukdom och död?
+
+Oliver Joob är skolpräst, lärare och har skrivit boken ”När jag är svag”. Boken lyfter hans frågor: vem blir jag i lidandet? Hur hanterar vi kroppslig maktlöshet? Vilka vi blir när sårbarheten tar överhanden? Frågor som kan vara både uppmuntrande och utmanande. Välkomna!
 
 
-## [Maktlösheten och pengarna](https://www.facebook.com/events/502657074717200)
+## [Projekt Perfekt]
 
-![Eva Erlandsson](assets/img/speakers/eva_erlandsson.jpg 'Eva Erlandsson'){:class="portrait-image"}
+![Eva Erlandsson](assets/img/speakers/.jpg 'Eva Erlandsson'){:class="portrait-image"}
 
-#### Mån 4 april, talare Eva Erlandsson
-IPhone 13 Pro, Bose Noise Cancelling Headphones och Tesla Model Y. Det finns alltid en ny modell som vi missat, och den strida ström av lyxprodukter som vi exponeras för gör att vi ofta drömmer oss bort till ett liv med mer pengar. Men vad vore vårt liv helt utan pengar? Vad händer när alla pengar inte längre är en fråga om valmöjligheter utan överlevnad? Vilka blir vi i den maktlösheten?
+#### Tisdag 15 nov, talare Kristina Holmqvist Gattario
+Har jag rätt att bestämma hur min kropp ska se ut? Vad gör det med oss att leva i ett samhälle som favoriserar den evigt vackra och unga kroppen? Hur försonas vi med att leva med kroppar som med tiden kommer att gå sönder? 
 
-Eva Erlandsson är pastor och jobbar inom Räddningsmissionen. Hon är också verksamhetsledare för Gatukyrkan som anordnar soppkök, frukostkafé och mässor för människor i social utsatthet. Välkomna!
+Kristina Holmqvist Gattario är docent i psykologi och medförfattare till boken ”Projekt perfekt”. Boken handlar om det som också är hennes forskningsämnen, våra tankar och upplevelser kring kroppen och vad som utmärker de som är nöjda med sina kroppar.
+Välkomna!
 
 
 ## Välkommen!
