@@ -33,7 +33,7 @@ Ola Sigurdson är professor i tros- och livsåskådningsvetenskap, har publicera
 
 ## När jag är svag
 
-![Oliver Joob](assets/img/speakers/oliver_joob.jpg 'Olivér Joób){:class="portrait-image"}
+![Oliver Joob](assets/img/speakers/oliver_joob.jpg 'Olivér Joób'){:class="portrait-image"}
 
 #### Onsdag 12 okt, talare Olivér Joób
 När kroppen är frisk är det lätt att glömma bort den. Paradoxalt nog är det inte förrän sjukdomen kommer som vi blir varse om hur beroende vi är av att den fungerar. Kanske blir vår kroppslighet som tydligast för oss tider av smärta, sjukdom och död?
