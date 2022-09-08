@@ -33,7 +33,7 @@ Ola Sigurdson är professor i tros- och livsåskådningsvetenskap, har publicera
 
 ## När jag är svag
 
-![Oliver Joob](assets/img/speakers/oliver_joob.jpg'Olivér Joób){:class="portrait-image"}
+![Oliver Joob](assets/img/speakers/oliver_joob.jpg 'Olivér Joób){:class="portrait-image"}
 
 #### Onsdag 12 okt, talare Olivér Joób
 När kroppen är frisk är det lätt att glömma bort den. Paradoxalt nog är det inte förrän sjukdomen kommer som vi blir varse om hur beroende vi är av att den fungerar. Kanske blir vår kroppslighet som tydligast för oss tider av smärta, sjukdom och död?
@@ -43,7 +43,7 @@ Oliver Joob är skolpräst, lärare och har skrivit boken ”När jag är svag�
 
 ## [Projekt Perfekt]
 
-![Kristina Holmqvist Gattario](assets/img/speakers/kristina_holmqvist_gattario.jpg'Kristina Holmqvist Gattario){:class="portrait-image"}
+![Kristina Holmqvist Gattario](assets/img/speakers/kristina_holmqvist_gattario.jpg 'Kristina Holmqvist Gattario){:class="portrait-image"}
 
 #### Tisdag 15 nov, talare Kristina Holmqvist Gattario
 Har jag rätt att bestämma hur min kropp ska se ut? Vad gör det med oss att leva i ett samhälle som favoriserar den evigt vackra och unga kroppen? Hur försonas vi med att leva med kroppar som med tiden kommer att gå sönder? 
