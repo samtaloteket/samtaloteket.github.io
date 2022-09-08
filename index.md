@@ -41,7 +41,7 @@ När kroppen är frisk är det lätt att glömma bort den. Paradoxalt nog är de
 Oliver Joob är skolpräst, lärare och har skrivit boken ”När jag är svag”. Boken lyfter hans frågor: vem blir jag i lidandet? Hur hanterar vi kroppslig maktlöshet? Hur kan vi leva helt i en ofullkomlig kropp? Vilka blir vi när sårbarheten tar överhanden? Frågor som kan vara både uppmuntrande och utmanande. Välkomna!
 
 
-## [Projekt Perfekt]
+## Projekt Perfekt
 
 ![Kristina Holmqvist Gattario](assets/img/speakers/kristina_holmqvist_gattario.jpg 'Kristina Holmqvist Gattario'){:class="portrait-image"}
 
