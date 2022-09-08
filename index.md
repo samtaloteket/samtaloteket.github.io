@@ -24,7 +24,7 @@ Vad innebär det att leva ett liv i en kropp? Hur ställer vi oss till att kropp
 
 ## Himmelska kroppar
 
-![Mikael Kurkiala](assets/img/speakers/ 'Mikael Kurkiala'){:class="portrait-image"}
+![Ola Sigurdson](assets/img/speakers/ola_sigurdson.jpg 'Ola Sigurdson'){:class="portrait-image"}
 
 #### Onsdag 28 sep, talare Ola Sigurdson
 Vad är kroppen, ur ett filosofiskt perspektiv? Är kroppen något gott som vi ska omfamna, eller något vi ska fly ifrån? Och hur har det sett ut genom historien? Är kroppen skild från begrepp som kultur och historia, eller en del av den? 
