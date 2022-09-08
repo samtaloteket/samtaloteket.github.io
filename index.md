@@ -43,7 +43,7 @@ Oliver Joob är skolpräst, lärare och har skrivit boken ”När jag är svag�
 
 ## [Projekt Perfekt]
 
-![Kristina Holmqvist Gattario](assets/img/speakers/kristina_holmqvist_gattario.jpg 'Kristina Holmqvist Gattario){:class="portrait-image"}
+![Kristina Holmqvist Gattario](assets/img/speakers/kristina_holmqvist_gattario.jpg 'Kristina Holmqvist Gattario'){:class="portrait-image"}
 
 #### Tisdag 15 nov, talare Kristina Holmqvist Gattario
 Har jag rätt att bestämma hur min kropp ska se ut? Vad gör det med oss att leva i ett samhälle som favoriserar den evigt vackra och unga kroppen? Hur försonas vi med att leva med kroppar som med tiden kommer att gå sönder? 
