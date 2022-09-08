@@ -38,7 +38,7 @@ Ola Sigurdson är professor i tros- och livsåskådningsvetenskap, har publicera
 #### Onsdag 12 okt, talare Olivér Joób
 När kroppen är frisk är det lätt att glömma bort den. Paradoxalt nog är det inte förrän sjukdomen kommer som vi blir varse om hur beroende vi är av att den fungerar. Kanske blir vår kroppslighet som tydligast för oss tider av smärta, sjukdom och död?
 
-Oliver Joob är skolpräst, lärare och har skrivit boken ”När jag är svag”. Boken lyfter hans frågor: vem blir jag i lidandet? Hur hanterar vi kroppslig maktlöshet? Vilka vi blir när sårbarheten tar överhanden? Frågor som kan vara både uppmuntrande och utmanande. Välkomna!
+Oliver Joob är skolpräst, lärare och har skrivit boken ”När jag är svag”. Boken lyfter hans frågor: vem blir jag i lidandet? Hur hanterar vi kroppslig maktlöshet? Hur kan vi leva helt i en ofullkomlig kropp? Vilka blir vi när sårbarheten tar överhanden? Frågor som kan vara både uppmuntrande och utmanande. Välkomna!
 
 
 ## [Projekt Perfekt]
