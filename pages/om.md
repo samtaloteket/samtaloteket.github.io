@@ -16,7 +16,7 @@ för att se en annan människas perspektiv på stora frågor -- och dela med sig
 * Kyrkor för Unga vuxna (KUNG) - ett Nätverk i Göteborg
 * Saronkyrkan
 * Betlehemskyrkan
-* Studentprästerna i Göteborg
+* Universitetskyrkan i Göteborg
 * Smyrnakyrkan
 * Equmeniakyrkan Kungsport
 * Göteborgs Räddningsmission
