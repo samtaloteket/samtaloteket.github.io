@@ -15,41 +15,24 @@ och brottas med frågeställningar. Köp en kopp kaffe eller låt bli, men ge di
 in i samtalet så letar vi svar tillsammans.
 
 
-## I Kroppen Min
+## Närvaro & Distraktion
 
-Kroppen: en fantastisk gåva eller ett nödvändigt ont? Det är genom kroppen vi lever, andas och finns till. Samtidigt är det genom kroppen vi känner smärta, genom den som vi påminns om vår begränsning och ändlighet.
+Vi lever i de oändliga möjligheternas tid. Med våra tekniska hjälpmedel är gränslös information, underhållning och kommunikation sällan mer än en tanke eller ett knapptryck bort. Samtidigt har begreppet “alltid tillgänglig men aldrig närvarande” blivit en beskrivning av det nya tillståndet där en vardag fylld av multitasking varvas med mindfulness och retreater för att försöka hitta lugn och stillhet i stressen.
 
-Vad innebär det att leva ett liv i en kropp? Hur ställer vi oss till att kroppen förändras? Är min kropp min egen, eller allmän egendom? Går det att försonas med en kropp som brister? Och hur gör man det, i så fall?
+I vårens Samtaloteket samtalar vi kring vad närvaro innebär i en tid av distraktioner. På vilka sätt sätter de nya tekniska möjligheterna önskade och oönskade spår i våra liv? Hur får vi syn på vår egen icke-närvaro? Och hur kan olika vägar för en ökad närvaro se ut, om det är något vi söker?
 
 
-## Himmelska kroppar
+## Del I
 
 ![Ola Sigurdson](assets/img/speakers/ola_sigurdson.jpg 'Ola Sigurdson'){:class="portrait-image"}
 
-#### Onsdag 28 sep, talare Ola Sigurdson
-Vad är kroppen, ur ett filosofiskt perspektiv? Är kroppen något gott som vi ska omfamna, eller något vi ska fly ifrån? Och hur har det sett ut genom historien? Är kroppen skild från begrepp som kultur och historia, eller en del av den? 
+#### Måndag 6 mars, talare Patrik Hagman
 
-Ola Sigurdson är professor i tros- och livsåskådningsvetenskap, har publicerat ett tiotal böcker och arbetar på Göteborgs universitet. Han har skrivet boken ”Himmelska kroppar”, en bok om hur det setts på kroppen över tid. Välkomna!
-
-## När jag är svag
+## Del II
 
 ![Oliver Joob](assets/img/speakers/oliver_joob.jpg 'Olivér Joób'){:class="portrait-image"}
 
-#### Onsdag 12 okt, talare Olivér Joób
-När kroppen är frisk är det lätt att glömma bort den. Paradoxalt nog är det inte förrän sjukdomen kommer som vi blir varse om hur beroende vi är av att den fungerar. Kanske blir vår kroppslighet som tydligast för oss under tider av smärta, sjukdom och död?
-
-Oliver Joob är skolpräst, lärare och har skrivit boken ”När jag är svag”. Boken lyfter hans frågor: vem blir jag i lidandet? Hur hanterar vi kroppslig maktlöshet? Hur kan vi leva helt i en ofullkomlig kropp? Frågor som kan vara både uppmuntrande och utmanande. Välkomna!
-
-
-## Projekt Perfekt
-
-![Kristina Holmqvist Gattario](assets/img/speakers/kristina_holmqvist_gattario.jpg 'Kristina Holmqvist Gattario'){:class="portrait-image"}
-
-#### Tisdag 15 nov, talare Kristina Holmqvist Gattario
-Har jag rätt att bestämma hur min kropp ska se ut? Vad gör det med oss att leva i ett samhälle som favoriserar den evigt vackra och unga kroppen? Hur försonas vi med att leva med kroppar som med tiden kommer att gå sönder? 
-
-Kristina Holmqvist Gattario är docent i psykologi och medförfattare till boken ”Projekt perfekt”. Boken handlar om det som också är hennes forskningsämnen, våra tankar och upplevelser kring kroppen och vad som utmärker de som är nöjda med sina kroppar.
-Välkomna!
+#### Onsdag 11 april, Lena Huld
 
 
 ## Välkommen!
