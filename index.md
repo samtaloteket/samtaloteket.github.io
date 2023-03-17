@@ -25,18 +25,18 @@ I vårens Samtaloteket samtalar vi kring vad närvaro innebär i en tid av distr
 ## Del I
 
 ![Patrik Hagman](assets/img/speakers/patrik_hagman.jpg 'Patrik Hagman'){:class="portrait-image"}
-
+ 
 #### Måndag 6 mars, talare Patrik Hagman
-
+ 
 ## Del II
-
+ 
 ![Lena Huld](assets/img/speakers/lena_huld.jpg 'Lena Huld'){:class="portrait-image"}
 
 #### Onsdag 11 april, talare Lena Huld
-
-
-
-
+ 
+   
+  
+  
 ## Välkommen!
 Samtalet hittar du kl. 18.00 - 20.00 på Condeco, Kungsgatan 45, Göteborg. Mer info på [Facebook](https://www.facebook.com/samtaloteket).
 
