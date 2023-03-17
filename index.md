@@ -32,7 +32,9 @@ I vårens Samtaloteket samtalar vi kring vad närvaro innebär i en tid av distr
 
 ![Lena Huld](assets/img/speakers/lena_huld.jpg 'Lena Huld'){:class="portrait-image"}
 
-#### Onsdag 11 april, Lena Huld
+#### Onsdag 11 april, talare Lena Huld
+
+
 
 
 ## Välkommen!
