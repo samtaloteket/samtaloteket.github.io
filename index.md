@@ -24,13 +24,13 @@ I vårens Samtaloteket samtalar vi kring vad närvaro innebär i en tid av distr
 
 ## Del I
 
-![Ola Sigurdson](assets/img/speakers/ola_sigurdson.jpg 'Ola Sigurdson'){:class="portrait-image"}
+![Patrik Hagman](assets/img/speakers/patrik_hagman.jpg 'Patrik Hagman'){:class="portrait-image"}
 
 #### Måndag 6 mars, talare Patrik Hagman
 
 ## Del II
 
-![Oliver Joob](assets/img/speakers/oliver_joob.jpg 'Olivér Joób'){:class="portrait-image"}
+![Lena Huld](assets/img/speakers/lena_huld.jpg 'Lena Huld'){:class="portrait-image"}
 
 #### Onsdag 11 april, Lena Huld
 
