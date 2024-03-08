@@ -1,5 +1,12 @@
 ---
 redirect_to: "https://saron.se/detta-hander/utbildning/forelasningar-seminarium/samtaloteket/"
+layout: page
+title: Fortsätt samtalet
+permalink: /fortsatt/
+feature-img: assets/img/headers/elijah-hiett-637179-unsplash-crop-blur.jpg
+tags:
+  - Fortsätt samtalet
+  - Resurser
 ---
 
 # Samtal om tro och liv

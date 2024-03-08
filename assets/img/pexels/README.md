@@ -1,3 +1,6 @@
+---
+redirect_to: "https://saron.se/detta-hander/utbildning/forelasningar-seminarium/samtaloteket/"
+---
 Pexels pictures License
 
 https://www.pexels.com/photo-license/

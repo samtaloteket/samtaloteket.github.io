@@ -1,5 +1,12 @@
 ---
 redirect_to: "https://saron.se/detta-hander/utbildning/forelasningar-seminarium/samtaloteket/"
+layout: page
+title: Podcast
+permalink: /podcast/
+feature-img: assets/img/pexels/disco-full.jpeg
+tags:
+  - Podcast
+published: true
 ---
 
 Har du missat ett samtal? Lyssna i efterhand på Podcasten!
