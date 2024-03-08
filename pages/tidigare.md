@@ -1,9 +1,5 @@
 ---
-layout: page
-title: Tidigare terminer
-permalink: /tidigare/
-hide: true
-published: true
+redirect_to: "https://saron.se/detta-hander/utbildning/forelasningar-seminarium/samtaloteket/"
 ---
 
 Här hittar du teman och kan lyssna på tidigare terminer av Samtaloteket.

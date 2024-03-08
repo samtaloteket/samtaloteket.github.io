@@ -1,9 +1,5 @@
 ---
-layout: page
-title: Redigera hemsidan
-permalink: /edit/
-hide: true
-feature-img: "assets/img/pexels/computer2.jpeg"
+redirect_to: "https://saron.se/detta-hander/utbildning/forelasningar-seminarium/samtaloteket/"
 ---
 
 Här är en kort intro av hur hemsidan uppdateras. Hemsidan lagras på [GitHub](https://github.com/samtaloteket/samtaloteket.github.io)
