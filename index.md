@@ -1,5 +1,12 @@
 ---
 redirect_to: "https://saron.se/detta-hander/utbildning/forelasningar-seminarium/samtaloteket/"
+layout: start
+title: null
+subtitle: null
+hide: true
+feature-img: assets/img/headers/topp\_samtaloteket.jpg
+feature-img-height: 40%
+published: true
 ---
 En kan glida oreflekterat igenom livet, eller ta sig an viktiga
 frågor för att bilda sig en egen uppfattning. Samtaloteket är en plats för det
