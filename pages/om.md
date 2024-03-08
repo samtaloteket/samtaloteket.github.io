@@ -1,12 +1,5 @@
 ---
-layout: page
-title: Om Samtaloteket
-permalink: /om/
-feature-img: assets/img/headers/thong-vo-2482-unsplash-crop.jpg
-tags:
-  - Om
-  - Arrangörer
-published: true
+redirect_to: "https://saron.se/detta-hander/utbildning/forelasningar-seminarium/samtaloteket/"
 ---
 
 Samtaloteket tar sitt avstamp i en längtan efter viktiga och riktiga samtal som går på djupet. Här kan en mötas med ett genuint intresse
